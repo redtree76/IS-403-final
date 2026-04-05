@@ -15,6 +15,7 @@ layout: home
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed is a fast-growing, nutrient-rich microgreen with potential to contribute to sustainable indoor farming and local food production. (Zięć et al., 2025) However, it is prone to biofilm adhesion, which reduces growth and harms plant health. (Zhang et al., 2010) This presents a key challenge for duckweed cultivation. Addressing biofilm formation and adhesion is therefore critical to ensure healthy duckweed growth and maintain its potential as a sustainable food source. 
 
 **1.3. Project Objectives**
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project aims to develop a system to detect and remove biofilm forming on duckweed in controlled environments. It will begin by evaluating the problem of biofilm on duckweed and current control methods to assess their effectiveness and identify areas for improvement. Based on this, a new method for automated biofilm removal will be designed, and tested, while also considering its impact on duckweed growth. The project will also examine the efficiency and reliability of the system, consider its potential use in intensive duckweed cultivation and provide recommendations for future improvements and applications in sustainable, high-efficiency food production.
 
 1.1.1. *Increasing Food Production*
