@@ -10,7 +10,6 @@ layout: home
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore imports over 90% of its food due to limited land, making it vulnerable to global supply disruptions. (Singapore Food Agency, 2023) To improve resilience, there is a growing push to increase local food production, particularly through high-efficiency and space-saving methods. (Begum, 2020) Microgreens, which are fast-growing and nutrient-dense, have emerged as a promising way to boost local food supply. (Singh et al., 2024) Indoor farming enables year-round cultivation in controlled environments using methods such as vertical farming and hydroponics, but high operational costs and labour constraints limit large-scale adoption. (Loh, 2024) To address these issues, there is increasing demand for Agriculture 4.0 technologies, including automation, sensors and data-driven systems, which can improve efficiency, optimize resource use and enhance crop quality. (Begum, 2025a) The Singapore Green Plan 2030 was recently postponed to 2035, with renewed plans to support indoor farms and revised targets to increase production of both vegetables and protein. (Begum, 2025b) As the need for fresh, locally grown produce rises (Tham, 2024), integrating advanced technologies into these production methods become essential for achieving sustainable and scalable local food production.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 **1.2. Problem Statement**
 
@@ -22,6 +21,8 @@ layout: home
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project aims to develop a system to detect and remove biofilm forming on duckweed in controlled environments. It will begin by evaluating the problem of biofilm on duckweed and current control methods to assess their effectiveness and identify areas for improvement. Based on this, a new method for automated biofilm removal will be designed, and tested, while also considering its impact on duckweed growth. The project will also examine the efficiency and reliability of the system, consider its potential use in intensive duckweed cultivation and provide recommendations for future improvements and applications in sustainable, high-efficiency food production.
 
 # 2. Duckweed (Shannen) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed was selected for this project due to its rapid growth, high nutritional content and suitability as a high-efficiency crop in controlled environments. Its rapid doubling time also makes it a practical choice for experiments, as changes in population can be observed over a short period. This section reviews its key characteristics, including physical traits, protein content, clonal reproduction and growth patterns, factors affecting growth and indicators of poor health, providing essential background for addressing challenges such as biofilm formation. 
+
 **2.1. Physical Characteristics**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed is a small, fast-growing aquatic plant that floats on the surface of freshwater and reproduces primarily through asexual budding, producing genetically identical plants that contribute to rapid colony formation. It is one of the smallest plants, typically 1-15 mm in length, with simple, flat, oval-shaped fronds. (Ziegler et al., 2023) The fronds are buoyant due to air-filled tissues, which help keep the plant afloat (Chen, 2024) and  form dense mats on the water surface. (Walsh et al., 2021) Duckweed naturally grows in still or slow-moving freshwater bodies and can tolerate a range of environmental conditions. (Thingujam et al., 2024) 
@@ -59,7 +60,10 @@ layout: home
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Poor duckweed growth can be identified through several observable signs. Healthy fronds float on the water surface, but stressed or unhealthy ones may produce turions, which sink, indicating reduced buoyancy or survival strategy under stress. (Ziegler et al., 2023) Discolouration, such as white or yellowed fronds, can signal nutrient deficiencies, disease or environmental stress. (Bunyoo et al., 2022)
 
+# 3. Biofilm (Shannen) 
+**3.1. Physical Characteristics**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed is a small, fast-growing aquatic plant that floats on the surface of freshwater and reproduces primarily through asexual budding, producing genetically identical plants that contribute to rapid colony formation. It is one of the smallest plants, typically 1-15 mm in length, with simple, flat, oval-shaped fronds. (Ziegler et al., 2023) The fronds are buoyant due to air-filled tissues, which help keep the plant afloat (Chen, 2024) and  form dense mats on the water surface. (Walsh et al., 2021) Duckweed naturally grows in still or slow-moving freshwater bodies and can tolerate a range of environmental conditions. (Thingujam et al., 2024) 
 1.1.2. *Beyond Food Production: The Other Dimensions of Food Insecurity*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While the physical food availability is important, it is only one aspect of food insecurity. Economic and physical access to food, food utilisation and stability of these factors are equally critical. (World Bank Group, 2025) In the pursuit of productivity and profit, issues such as rising food prices, environmental degradation and social inequalities were often overlooked or even exacerbated. (Dorward, 2013) More importantly, many people still do not receive adequate nutrition from the food they consume, highlighting that availability alone does not guarantee food security. (Bhardwaj et al., 2024)
