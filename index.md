@@ -61,14 +61,69 @@ layout: home
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Poor duckweed growth can be identified through several observable signs. Healthy fronds float on the water surface, but stressed or unhealthy ones may produce turions, which sink, indicating reduced buoyancy or survival strategy under stress. (Ziegler et al., 2023) Discolouration, such as white or yellowed fronds, can signal nutrient deficiencies, disease or environmental stress. (Bunyoo et al., 2022)
 
 # 3. Biofilm (Shannen) 
-**3.1. Physical Characteristics**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biofilms originate from microorganisms naturally present in water, including bacteria, fungi, algae and protozoa, which can attach to any suitable surface in a moist environment. (Ali et al., 2023) These microorganisms secrete a self-produced matrix called extracellular polymeric substances (EPS), made of polysaccharides, proteins, DNA and water, which protects the community and enables its expansion. (Zhao et al., 2023) While environmental parameters can be precisely controlled in indoor cultivation systems, biofilm readily establishes and exhibits high resilience, presenting a significant challenge to maintaining healthy duckweed culture. This section examines the growth of biofilm and its negative interactions with duckweed.
+
+<br> **3.1. Physical Characteristics**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed is a small, fast-growing aquatic plant that floats on the surface of freshwater and reproduces primarily through asexual budding, producing genetically identical plants that contribute to rapid colony formation. It is one of the smallest plants, typically 1-15 mm in length, with simple, flat, oval-shaped fronds. (Ziegler et al., 2023) The fronds are buoyant due to air-filled tissues, which help keep the plant afloat (Chen, 2024) and  form dense mats on the water surface. (Walsh et al., 2021) Duckweed naturally grows in still or slow-moving freshwater bodies and can tolerate a range of environmental conditions. (Thingujam et al., 2024) 
-1.1.2. *Beyond Food Production: The Other Dimensions of Food Insecurity*
+
+<br> **3.2. Stages of Biofilm Development**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biofilm formation occurs in five main stages. It begins with the attachment stage, where free-floating bacteria loosely adhere to surfaces through weak forces like van der Waals interaction and electrostatic attraction. This is followed by irreversible adhesion as bacteria anchor and initiate production of the EPS. Next, in the microcolony formation stage, the attached bacteria proliferate and aggregate into small clusters. During the maturation stage, the biofilm develops into a complex three-dimensional structure with the microcolonies. Finally, in the dispersion stage, some bacteria detach to colonise new surfaces, allowing biofilms to spread and re-establish elsewhere. (Ugwu et al., 2025) 
+
+<br> **3.3. Sources and Growth Drivers**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In duckweed cultivation, microorganisms are readily introduced through the water source, nutrient solutions or handling of the plants. (An et al., 2024) Biofilm formation is driven by the presence of available surfaces for attachment, sufficient moisture and nutrients that sustain microbial metabolism. (Ugwu et al., 2025) Environmental conditions common in cultivation, such as stagnant water, warm temperatures and high nutrient conditions, further accelerate biofilm development. (Li et al., 2023) 
+
+<br> **3.4. Negative Impact of Biofilm Adherence on Duckweed Growth**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although biofilms can be beneficial in some contexts such as stabilising ecosystems, recycling nutrients or supporting beneficial microbial communities (Musa et al., 2024), they are detrimental to duckweed cultivation in controlled systems. On duckweed fronds, biofilms adhere to the plant surface, physically obstructing frond reproduction (Zhang et al., 2010) and hindering nutrient uptake, leading to slower growth and lower biomass. Additionally, biofilms can harbour competing or pathogenic microbes, further compromising plant health (An et al., 2024) and potential for safe consumption. (Zięć et al., 2025) Although a dense duckweed population can partially limit biofilm accumulation (Beitle et al., 2025), this comes at the cost of reduced productivity and continued negative impacts on overall crop performance.
 
 
+# 4. Value Proposition (Shannen) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To address the problem of biofilm in duckweed cultivation, we identified stakeholders impacted and evaluated current management measures, recognising that existing methods are few, disruptive and labour-intensive. The proposed system aims to provide a non-destructive and automated biofilm management by monitoring fronds in real time and applying a novel removal method. 
 
+<br> **4.1. Design Product**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The goal of this project is to develop a system that utilises a camera to monitor biofilm formation and adherence in real time, and automatically triggers a mechanical removal mechanism when biofilm is detected.
+
+<br> **4.2. Stakeholder Analysis**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We were inspired by Dr Yuchen Long’s research on duckweed and visited his lab, where he shared that he encountered significant biofilm contamination while cultivating duckweed. He explained that biofilm can rapidly cover plant surface and system components, competing with duckweed for nutrients, oxygen and light, while also harbouring potentially harmful microorganisms, and is difficult to remove once established. Currently, the lab uses bleaching to control biofilm, which risks damaging the crop, highlighting the need for alternative solutions to support healthy duckweed growth. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In line with Singapore’s goal of strengthening local food production, the primary stakeholders of the project are indoor farming operations, which require efficient and reliable systems to maintain microgreen cultivation. (EDB Singapore, 2025) These users would benefit from improved biofilm management, resulting in higher productive and reduced reliance on labour-intensive or potentially damaging control methods. Farm technicians and workers are also key stakeholders as they are responsible for operating and maintaining the system. 
+	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secondary stakeholders include researchers and R&D institutions who are interested in advancing duckweed cultivation and biofilm management strategies. In addition, consumers represent a broader stakeholder group, benefiting from safer and more sustainable food production enabled by improved cultivation practices.		
+
+<br> **4.3. Current Biofilm Management Techniques**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently, no commercial or standardised systems provide real-time detection and removal of biofilm from duckweed fronds. While laboratory protocols exist for sterilisation of duckweed and hydroponic technologies can manage general biofilm, there is no integrated solution that combines continuous monitoring with duckweed-specific biofilm control.
+
+4.3.1. *Lab Protocols for Biofilm Removal*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laboratory protocols have been developed specifically for duckweed, focussing on surface sterilisation and gentle rinsing, where fronds are briefly soaked in dilute sodium hypochlorite (~1% bleach) followed by multiple rinses to remove surface microbes and loose biofilm. (Laurich, 2019) 
+
+4.3.2. *Biofilm Management in Hydroponics Systems*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In broader hydroponic systems, biofilm is managed using physical and mechanical methods, such as scrubbing or flushing surfaces, ultrasonic or sound-based disruption and UV. (Mehmood et al., 2025) Chemical interventions are also commonly applied. (An et al., 2024) 
+
+4.3.3. *Current Biofilm Detection Methods*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microscopical and imaging methods are among the most commonly used for biofilm detection, enabling direct visualisation of biofilm structure and thickness. In addition, biological approaches such as colony-forming unit assays, are also employed to estimate viable microbial populations by culturing biofilm cells on agar plates. Chemical techniques use staining assays and analysis of EPS or metabolic activity to quantify biofilm presence. (Achinas et al., 2020) Optical and spectroscopic methods further complement these techniques by quantifying biofilm growth through changes in light absorption, reflection or molecular composition. (Kulshrestha & Gupta, 2024) More recently, sensor-based and physical detection methods have emerged, including optical fibre sensors (Rakhimbekova et al., 2022) and capacitive sensors. (Zirk et al., 2022)
+
+<br> **4.4. Gaps in Existing Approaches and Our Proposed Solution**
+
+4.4.1. *Evaluation of Current Biofilm Management Methods*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laboratory protocols for duckweed are not suitable for continuous or large-scale cultivation. These methods are labour-intensive and may disrupt normal duckweed growth if applied repeatedly, while also failing to prevent rapid re-establishment of biofilm due to the chemical resistance of the EPS matrix. (Hasan & Aggarwal, 2024) In hydroponic systems, existing mechanical methods could potentially be adapted to remove biofilm from duckweed surfaces without relying on harsh chemicals that pose safety concerns for human consumption. (An et al., 2024)
+
+4.4.2. *Evaluation of Current Biofilm Detection Methods*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laboratory methods, such as microscopy and imaging, provide detailed visualisation of biofilm structure but are destructive, labour-intensive and unsuitable for continuous monitoring. Similarly, biological approaches can quantify viable microbes but they are slow and do not capture non-culturable cells or the EPS matrix. Chemical techniques can detect and quantify biofilm more directly, yet they require sampling and cannot provide real-time feedback. (Achinas et al., 2020) In contrast, optical and sensor-based approaches show the most promise for monitoring biofilm on duckweed. Optical techniques allow non-invasive and rapid tracking of biofilm growth and composition (Kulshrestha & Gupta, 2024), while emerging sensors can provide real-time and non-destructive detection. (Rakhimbekova et al., 2022) 
+
+4.4.3. *Limitations Addressed*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We propose an integrated, real-time system specifically designed for duckweed cultivation. The approach uses camera-based imaging to continuously monitor biofilm formation on duckweed fronds. Image analysis algorithms quantify biofilm growth and trigger a signal when biofilm exceeds set thresholds. This signal then activates a mechanical removal mechanism to eliminate biofilm from the plant surface. By combining automated detection with targeted mechanical removal, the system provides non-destructive, continuous, real-time biofilm management while reducing labour requirements. 
 
 
 <br> **1.4. Interaction between Cyanobacteria and Duckweed**
@@ -404,97 +459,7 @@ Anthem, P. (2025, July 7). Food security – what it means and why it matters. W
 
 Appenroth, Klaus-J., Sree, K. S., Böhm, V., Hammann, S., Vetter, W., Leiterer, M., & Jahreis, G. (2017). Nutritional value of duckweeds (Lemnaceae) as human food. Food Chemistry, 217, 266–273. https://doi.org/10.1016/j.foodchem.2016.08.116
 
-Begum, S. (2020, September 9). Nine high-tech farms in Singapore awarded nearly $40 million to ramp up food production. The Straits Times. https://www.straitstimes.com/singapore/nine-high-tech-farms-in-singapore-awarded-nearly-40-million-to-ramp-up-food-production
 
-Begum, S. (2025a, June 5). Plan in place to help local farms produce more, stay financially viable: SFA chief. The Straits Times. https://www.straitstimes.com/singapore/environment/plan-in-place-to-help-local-farms-produce-more-stay-financially-viable-sfa-chief
-
-Begum, S. (2025b, November 4). Singapore drops “30 by 30” farming goal, sets revised targets for fibre and protein by 2035. The Straits Times. https://www.straitstimes.com/singapore/environment/singapores-30-by-30-farming-goal-pushed-back-to-2035-with-revised-targets-for-fibre-and-protein
-
-Bhardwaj, R. L., Parashar, A., Parewa, H. P., & Vyas, L. (2024). An Alarming Decline in the Nutritional Quality of Foods: The Biggest Challenge for Future Generations’ Health. Foods, 13(6), 877. https://doi.org/10.3390/foods13060877
-
-Bhaswant, M., Shanmugam, D. K., Miyazawa, T., Abe, C., & Miyazawa, T. (2023). Microgreens-A Comprehensive Review of Bioactive Molecules and Health Benefits. Molecules (Basel, Switzerland), 28(2), 867. https://doi.org/10.3390/molecules28020867
-
-Czyżewska, W., & Piontek, M. (2019). The Efficiency of Microstrainers Filtration in the Process of Removing Phytoplankton with Special Consideration of Cyanobacteria. Toxins, 11(5), 285. https://doi.org/10.3390/toxins11050285
-
-de Boutray, M.-L., Vinçon-Leite, B., Dorner, S., & Lemaire, B. (2011, June 6). Water Quality Monitoring and Lake Ecosystem Modelling: an Integrated Approach to Assess Cyanobacterial Blooms. ResearchGate; unknown. https://www.researchgate.net/publication/268177231_Water_Quality_Monitoring_and_Lake_Ecosystem_Modelling_an_Integrated_Approach_to_Assess_Cyanobacterial_Blooms
-
-Delgopiatof, M., Bai, M., Bushey, S., & Syme, V. (2024, June 10). Mechanics and Optics of Cyanobacteria: How to Survive over Billions of Years - Bioengineering Hyperbook. Bioengineering Hyperbook. https://bioengineering.hyperbook.mcgill.ca/mechanics-and-optics-of-cyanobacteria-how-to-survive-over-billions-of-years/
-
-Dorward, A. (2013). Agricultural labour productivity, food prices and sustainable development impacts and indicators. Food Policy, 39, 40–50. https://doi.org/10.1016/j.foodpol.2012.12.003
-
-EDB . (2025). Edb.gov.sg. https://www.edb.gov.sg/en/about-edb/media-releases-publications/dutch-indoor-farming-company-rowy-opens-new-vertical-farm-in-singapore.html
-
-Erratt, K. J., Creed, I. F., Freeman, E. C., Trick, C. G., Westrick, J., Birbeck, J. A., Watson, L. C., & Zastepa, A. (2022). Deep Cyanobacteria Layers: An Overlooked Aspect of Managing Risks of Cyanobacteria. Environmental Science & Technology. https://doi.org/10.1021/acs.est.2c06928
-
-FAO, IFAD, UNICEF, WFP, & WHO. (2025). The State of Food Security and Nutrition in the World 2025. https://doi.org/10.4060/cd6008en
-
-Hoenink, J. C., Garrott, K., Jones, N. R. V., Conklin, A. I., Monsivais, P., & Adams, J. (2024). Changes in UK Price Disparities between Healthy and Less Healthy Foods over 10 years: an Updated Analysis with Insights in the Context of Inflationary Increases in the cost-of-living from 2021. Appetite, 197(107290), 107290–107290. https://doi.org/10.1016/j.appet.2024.107290
-
-Javaid, M., Haleem, A., Singh, R. P., & Suman, R. (2022). Enhancing smart farming through the applications of Agriculture 4.0 technologies. International Journal of Intelligent Networks, 3(1), 150–164. https://doi.org/10.1016/j.ijin.2022.09.004
-
-Kaur, S., Bedi, M., Singh, S., Kour, N., Bhatti, S. S., Bhatia, A., Kumar, M., & Kumar, R. (2024). Monoculture of crops: A challenge in attaining food security. In Advances in Food Security and Sustainability (Vol. 9, pp. 197–213). Elsevier. https://doi.org/10.1016/bs.af2s.2024.07.008
-
-Kish, B. (2024, February 15). Here Are the 4 Biggest Benefits of Indoor Farming. CEAg World. https://www.ceagworld.com/greenhouse-produce/here-are-the-4-biggest-benefits-of-indoor-farming/
-
-Li, X., Zeng, J., & Yu, X. (2021). Potassium permanganate as a promising pre-oxidant to treat low-viability cyanobacteria and associated removal of cyanotoxins and extracellular organic matters. Water Research, 202, 117353. https://doi.org/10.1016/j.watres.2021.117353
-
-Lim, K. T. (2021, February 10). Singapore: Food Security despite the Odds. Food for Thought; Singapore Food Agency. https://www.sfa.gov.sg/food-for-thought/article/detail/singapore-food-security-despite-the-odds
-
-Loh, R. (2024, October 19). With several farms closing or struggling to break even, what is the future for agriculture in Singapore? CNA. https://www.channelnewsasia.com/today/big-read/high-tech-low-returns-farming-4684566
-
-NC State. (2021). Supporting Cyanobacterial Bloom Monitoring with Satellite Imagery NC State Extension Publications. Content.ces.ncsu.edu. https://content.ces.ncsu.edu/supporting-cyanobacterial-bloom-monitoring-with-satellite-imagery
-
-Noyma, N. P., de Magalhães, L., Furtado, L. L., Mucci, M., van Oosterhout, F., Huszar, V. L. M., Marinho, M. M., & Lürling, M. (2016). Controlling cyanobacterial blooms through effective flocculation and sedimentation with combined use of flocculants and phosphorus adsorbing natural soil and modified clay. Water Research, 97, 26–38. https://doi.org/10.1016/j.watres.2015.11.057
-
-NParks. (2023). Xiao Bai Cai. Nparks.gov.sg. https://gardeningsg.nparks.gov.sg/page-index/edible-plants/xiao-bai-cai/
-
-Park, I. (2022, December 13). A Timeline of the Three Major Agricultural Revolutions in History. Population Education. https://populationeducation.org/a-timeline-of-the-three-major-agricultural-revolutions-in-history/
-
-Pereira . (2009). Green Revolution. In Encyclopædia Britannica. https://www.britannica.com/event/green-revolution
-
-Popkin, B. M., & Ng, S. W. (2021). The nutrition transition to a stage of high obesity and noncommunicable disease prevalence dominated by ultra‐processed foods is not inevitable. Obesity Reviews, 23(1). https://doi.org/10.1111/obr.13366
-
-Rathor, A. S., Choudhury, S., Sharma, A., Nautiyal, P., & Shah, G. (2024). Empowering Vertical Farming through IoT and AI-Driven Technologies: A Comprehensive Review. Heliyon, 10(15), e34998–e34998. https://doi.org/10.1016/j.heliyon.2024.e34998
-
-Rudi, K., Larsen, F., & Jakobsen, K. S. (1998). Detection of Toxin-Producing Cyanobacteria by Use of Paramagnetic Beads for Cell Concentration and DNA Purification. Applied and Environmental Microbiology, 64(1), 34–37. https://doi.org/10.1128/aem.64.1.34-37.1998
-
-Saqrane, S., ghazali, I. E., Ouahid, Y., Hassni, M. E., Hadrami, I. E., Bouarab, L., del Campo, F. F., Oudra, B., & Vasconcelos, V. (2007). Phytotoxic effects of cyanobacteria extract on the aquatic plant Lemna gibba: Microcystin accumulation, detoxication and oxidative stress induction. Aquatic Toxicology, 83(4), 284–294. https://doi.org/10.1016/j.aquatox.2007.05.004
-
-Saunders, J., & Smith, T. (2010). Malnutrition: Causes and consequences. Clinical Medicine, 10(6), 624–627. https://doi.org/10.7861/clinmedicine.10-6-624
-
-ScienceDirect. (2016). Duckweed - an overview ScienceDirect Topics. Sciencedirect.com. https://www.sciencedirect.com/topics/earth-and-planetary-sciences/duckweed
-
-Serrà, A., Philippe, L., & Gómez, E. (2021). Removal of Cyanobacteria and Cyanotoxins in Waters. Toxins, 13(9), 636. https://doi.org/10.3390/toxins13090636
-
-SFA. (2023, December 13). Agriculture Technologies. Default. https://www.sfa.gov.sg/food-science-and-technology/technology/agriculture-technologies
-
-Singapore Green Plan 2030. (2024). Our Targets. Www.greenplan.gov.sg. https://www.greenplan.gov.sg/targets/
-
-Tabarin, A., Celeste M., L., J. Benoit, C., & Blandine, G.-C. (n.d.). Limit of Quantitation - an overview ScienceDirect Topics. Www.sciencedirect.com. https://www.sciencedirect.com/topics/nursing-and-health-professions/limit-of-quantitation
-
-Tan. (2019). Malnutrition. Healthhub.sg. https://www.healthhub.sg/health-conditions/malnutrition
-
-Tan, C. (2022, August 7). $10 million centre launched to solve urban farming challenges, boost food security. The Straits Times. https://www.straitstimes.com/singapore/10-million-centre-launched-to-solve-urban-farming-challenges-boost-food-security
-
-Teng, P., & Montesclaros, J. Ma. L. P. (2017). Community Gardens: Singapore’s “Fourth Food Basket”? RSIS_NTU. https://rsis.edu.sg/rsis-publication/rsis/community-gardens-singapores-fourth-food-basket/
-
-Tham, D. (2024, June 29). IN FOCUS: Will Singapore meet its 30 by 30 food sustainability goal? CNA. https://www.channelnewsasia.com/singapore/vegetables-seafood-singapore-food-price-cost-farmers-security-4442626
-
-Verdouw, C., Tekinerdogan, B., Beulens, A., & Wolfert, S. (2021). Digital twins in smart farming. Agricultural Systems, 189, 103046. https://doi.org/10.1016/j.agsy.2020.103046
-
-Wang, Z., Akbar, S., Sun, Y., Gu, L., Zhang, L., Lyu, K., Huang, Y., & Yang, Z. (2021). Cyanobacterial dominance and succession: Factors, mechanisms, predictions, and managements. Journal of Environmental Management, 297, 113281. https://doi.org/10.1016/j.jenvman.2021.113281
-
-WebMD. (n.d.). Health Benefits of Bok Choy. WebMD. https://www.webmd.com/diet/health-benefits-bok-choy
-
-Wendt, K. E., Walker, P., Sengupta, A., Ungerer, J., & Pakrasi, H. B. (2022). Engineering Natural Competence into the Fast-Growing Cyanobacterium Synechococcus elongatus Strain UTEX 2973. Applied and Environmental Microbiology, 88(1). https://doi.org/10.1128/aem.01882-21
-
-World Bank Group. (2025). What is food security? World Bank. https://www.worldbank.org/en/topic/agriculture/brief/food-security-update/what-is-food-security
-
-World Food Program USA. (2025, July 7). 6 Causes of World Hunger - Why There is Global Food Insecurity. World Food Program USA. https://www.wfpusa.org/hunger/issues/
-
-Zięć, G., Michalski, O., Konieczna-Molenda, A., Dera, T., Tkaczewska, J., Zięć, G., Michalski, O., Konieczna-Molenda, A., Dera, T., & Tkaczewska, J. (2025). Nutritional Value, Health Properties, Safety Considerations, and Consumer Acceptance of Lemnoideae as Human Food. Nutrients, 17(18), 3026–3026. https://doi.org/10.3390/nu17183026
-
-Ziegler, P., Appenroth, K. J., & Sree, K. S. (2023). Survival Strategies of Duckweeds, the World’s Smallest Angiosperms. Plants, 12(11), 2215. https://doi.org/10.3390/plants12112215
 
 
 # Appendix
