@@ -10,6 +10,8 @@ layout: home
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Food insecurity is the lack of consistent access to enough safe and nutritious food for normal growth and development. (Anthem, 2025) It prevents people from maintaining an active and healthy lifestyle. There are a multitude of factors that plague communities and contribute to food insecurity. Examples include climate change affecting crop yields, poverty limiting people’s ability to afford food, conflicts and wars disrupting food supply chains and poor infrastructure making it harder for food to reach those in need. (World Food Program USA, 2025)
 
+TESTEST
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Throughout history, humans have continuously faced the challenge of producing enough food to sustain an ever-growing population. To adapt, three major revolutions in agriculture have taken place. During the First Agricultural Revolution, people shifted from hunting and gathering to farming and domesticating animals, allowing for more stable food sources. With the advent of the Industrial Revolution, the Second Agricultural Revolution introduced mechanisation, crop rotation and selective breeding, greatly increasing agricultural productivity. (Park, 2022) The Green Revolution then gained momentum in the 1900s and replaced traditional methods of cultivation. It involved new high-yield crop varieties, synthetic fertilisers, pesticides and irrigation systems, which significantly boosted global food production and helped reduce famine in developing countries. (Pereira, 2009) Advances in science and technology have enabled us to produce food more efficiently, feeding a growing global population. 
 
 
