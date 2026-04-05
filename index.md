@@ -21,6 +21,7 @@ layout: home
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project aims to develop a system to detect and remove biofilm forming on duckweed in controlled environments. It will begin by evaluating the problem of biofilm on duckweed and current control methods to assess their effectiveness and identify areas for improvement. Based on this, a new method for automated biofilm removal will be designed, and tested, while also considering its impact on duckweed growth. The project will also examine the efficiency and reliability of the system, consider its potential use in intensive duckweed cultivation and provide recommendations for future improvements and applications in sustainable, high-efficiency food production.
 
 <br>
+
 # 2. Duckweed (Shannen) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed was selected for this project due to its rapid growth, high nutritional content and suitability as a high-efficiency crop in controlled environments. Its rapid doubling time also makes it a practical choice for experiments, as changes in population can be observed over a short period. This section reviews its key characteristics, including physical traits, protein content, clonal reproduction and growth patterns, factors affecting growth and indicators of poor health, providing essential background for addressing challenges such as biofilm formation. 
 
