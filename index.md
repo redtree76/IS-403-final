@@ -130,29 +130,46 @@ layout: home
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We propose an integrated, real-time system specifically designed for duckweed cultivation. The approach uses camera-based imaging to continuously monitor biofilm formation on duckweed fronds. Image analysis algorithms quantify biofilm growth and trigger a signal when biofilm exceeds set thresholds. This signal then activates a mechanical removal mechanism to eliminate biofilm from the plant surface. By combining automated detection with targeted mechanical removal, the system provides non-destructive, continuous, real-time biofilm management while reducing labour requirements. 
 
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <br> **1.4. Interaction between Cyanobacteria and Duckweed**
 
 ![Figure A](duckweed.png)
 <div style="text-align: center;"> Figure A: Duckweed Cultivation with Cyanobacteria and Algae </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cyanobacteria can establish populations in the water during duckweed cultivation. Even at concentrations as low as 0.075µg/mL, cyanobacteria significantly reduce duckweed growth and chlorophyll content. (Saqrane et al., 2007) Duckweed is a free floating plant and cyanobacteria at these concentrations often remain at the water surface alongside the plants. (Delgopiatof et al., 2024) Thus, it is important to maintain low cyanobacteria levels in cultivation systems to optimize duckweed growth and protein yield.
-
-# 2. Design Product
-**2.1. Value Proposition** (Jingten) 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our goal of the project and value proposition is: to develop a low-cost real-time optical sensor with an integrated filter to prevent cyanobacteria growth in indoor duckweed farms. 
-
-<br> **2.2. Stakeholder Analysis** (Jingten)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As indoor farms struggle to remain viable due to the high cost of set up and extensive energy demand, we aim to create a low cost sensor for SME indoor farms that allows them to integrate smart agriculture to increase yield and reduce loss. 
-	
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We were inspired by Dr. Yuchen Long’s research on duckweed, and through the conversation we learnt the negative impact of phytoplankton contamination in duckweed tanks may take over the space and greatly compete with duckweed for available nutrients and space. However, as both duckweed and cyanobacteria use the same nutrients for growth, without the use of algaecide, it is difficult to eliminate cyanobacteria. He mentioned that it is crucial to promote duckweed growth at an early stage as it could suppress cyanobacteria proliferation by taking up the nutrient and light required for photosynthesis and cyanobacteria. This could be applied in indoor duckweed farms, as cyanobacteria growth is commonly found in hydroponics systems.
 
 
-<br> **2.3. Design Requirements** (Shannen) 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our target users are small and medium enterprises (SMEs) indoor farms in Singapore. We aim to provide a solution that is affordable, easy to maintain and simple to operate, while ensuring reliable detection performance. To meet these goals, the design of our optical cyanobacteria sensor is guided by the following considerations: 
 
 2.3.1. *Practical Considerations*
 
@@ -181,19 +198,6 @@ Our proposed design is made out of three components.
 |  **Calibration and Processing** | Translates the absorbance readings measured by the sensor into cyanobacteria count.  |
 | **Filter** | Removes the cyanobacteria from the duckweed tank.  |
 
-<br> **3.1 Sensor** 
-
-3.1.1. *State-of-the-Art Review* (Jingten)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monitoring cyanobacteria is critical in water quality management and agriculture. However, most existing methods are designed for large scale environments like lakes, reservoirs and drinking water systems, and their application to compact, controlled setups like indoor duckweed farms remains limited. Current methods that are commonly used suffer from the trade-off between convenience and accuracy. 
-	
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Methods such as ELISA kits (immunoassay-based) and Liquid Chromatography-Mass Spectrometry (LC-MS, chemical quantification of cyanotoxin) detect cyanotoxins with high specificity, but it requires lab processing, trained personnel, expensive and non-portable, thus not suitable for real-time or in-situ monitoring.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To provide timely alert of cyanobacteria growth for indoor duckweed farms, real-time sensing is vital. The current available technology could be summarized as satellite imaging, imaging with machine learning, and optical sensors. Satellite imaging that tracks surface-level bloom is commonly used for large water bodies, which lacks resolution for small-scale indoor systems. (NC State, 2021) Alternatively, machine learning may be applied along with imaging. While it is promising, they often depend on large datasets and computational resources, making it costly and highly dependent on the available data for training. Therefore in our project, we choose to focus on optical sensors, which are the most common form of sensor available on the market that provides real-time sensing. 
-	
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently most optical sensors used for field research are fluorescence-based. While it is a promising solution for in-situ monitoring, its accuracy and reading is highly affected by environmental factors such as turbidity, temperature, or pH, which leads to unreliable estimation of biomass. Additionally, the complex calibration process also acts as a barrier to easy adoption by users to whom cyanobacteria monitoring may be a component to a complex system like duckweed farm.
-	
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To simplify the complex system and lower the cost of production, our project focuses on absorbance-based sensors. While it has lower accuracy compared to the fluorescence-based sensor, it is a necessary trade-off for it to address the limitation of cost and complexity in existing sensor systems.
 
 
 3.1.2. *Development of the Optical Sensor* (Isaac)
@@ -370,12 +374,6 @@ In addition to mechanical filtration, flocculants such as chitosan and polyalumi
 ![Figure J](filter.png)
 <div style="text-align: center;"> Figure I: 2 tank filter mechanism to remove cyanotoxins and recover nutrients (nitrogen and phosphorous) (Isaac) </div>
 
-3.3.2. *Management of Cyanobacteria*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After cell removal, dissolved toxins may remain in the water. Given the high cyanobacteria growth rate, it is highly likely the water is rich in essential nutrients for plant growth such as nitrogen and phosphorus, it should not be simply discarded to fully utilize the nutrients and prevent fertilizer runoff that causes downstream eutrophication. We aim to remove the cyanotoxins present in the water following the removal of cyanobacteria cells, and reuse the water in the main duckweed tank. 
-One of the most widely used methods for cyanotoxin removal is activated carbon adsorption. This relies on the porous structure of activated carbon to physically adsorb dissolved cyanotoxins from the water. However, its performance could be hindered by factors such as contact ime, carbon type, water quality, and the process can be costly due to the need for regeneration and reactivation of the carbon. (Abbas et al., 2020)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another novel alternative to degrade cyanobacteria is potassium permanganate, which is a strong oxidizing agent that has been shown to effectively oxidize cyanotoxins such as microcystins and anatoxins into non-toxic form by alternating the molecular structure. (Li et al., 2021) Cyanotoxins is shown to be effectively neutralized by adding the optimal dosage of the potassium permanganate, and it is shown to cause less damage to the cellular membrane of cyanobacteria, leading to lower extracellular cyanotoxin levels. Considering the simplicity and cost of the method, we intend to explore the integration of potassium permanganate dosing in the system.
 
 
 # 4. Validation of Design (Jingten)
