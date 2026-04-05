@@ -11,29 +11,29 @@ layout: home
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singapore imports over 90% of its food due to limited land, making it vulnerable to global supply disruptions. (Singapore Food Agency, 2023) To improve resilience, there is a growing push to increase local food production, particularly through high-efficiency and space-saving methods. (Begum, 2020) Microgreens, which are fast-growing and nutrient-dense, have emerged as a promising way to boost local food supply. (Singh et al., 2024) Indoor farming enables year-round cultivation in controlled environments using methods such as vertical farming and hydroponics, but high operational costs and labour constraints limit large-scale adoption. (Loh, 2024) To address these issues, there is increasing demand for Agriculture 4.0 technologies, including automation, sensors and data-driven systems, which can improve efficiency, optimize resource use and enhance crop quality. (Begum, 2025a) The Singapore Green Plan 2030 was recently postponed to 2035, with renewed plans to support indoor farms and revised targets to increase production of both vegetables and protein. (Begum, 2025b) As the need for fresh, locally grown produce rises (Tham, 2024), integrating advanced technologies into these production methods become essential for achieving sustainable and scalable local food production.
 
 
-**1.2. Problem Statement**
+<br> **1.2. Problem Statement**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed is a fast-growing, nutrient-rich microgreen with potential to contribute to sustainable indoor farming and local food production. (Zięć et al., 2025) However, it is prone to biofilm adhesion, which reduces growth and harms plant health. (Zhang et al., 2010) This presents a key challenge for duckweed cultivation. Addressing biofilm formation and adhesion is therefore critical to ensure healthy duckweed growth and maintain its potential as a sustainable food source. 
 
 
-**1.3. Project Objectives**
+<br> **1.3. Project Objectives**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project aims to develop a system to detect and remove biofilm forming on duckweed in controlled environments. It will begin by evaluating the problem of biofilm on duckweed and current control methods to assess their effectiveness and identify areas for improvement. Based on this, a new method for automated biofilm removal will be designed, and tested, while also considering its impact on duckweed growth. The project will also examine the efficiency and reliability of the system, consider its potential use in intensive duckweed cultivation and provide recommendations for future improvements and applications in sustainable, high-efficiency food production.
 
 # 2. Duckweed (Shannen) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed was selected for this project due to its rapid growth, high nutritional content and suitability as a high-efficiency crop in controlled environments. Its rapid doubling time also makes it a practical choice for experiments, as changes in population can be observed over a short period. This section reviews its key characteristics, including physical traits, protein content, clonal reproduction and growth patterns, factors affecting growth and indicators of poor health, providing essential background for addressing challenges such as biofilm formation. 
 
-**2.1. Physical Characteristics**
+<br> **2.1. Physical Characteristics**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed is a small, fast-growing aquatic plant that floats on the surface of freshwater and reproduces primarily through asexual budding, producing genetically identical plants that contribute to rapid colony formation. It is one of the smallest plants, typically 1-15 mm in length, with simple, flat, oval-shaped fronds. (Ziegler et al., 2023) The fronds are buoyant due to air-filled tissues, which help keep the plant afloat (Chen, 2024) and  form dense mats on the water surface. (Walsh et al., 2021) Duckweed naturally grows in still or slow-moving freshwater bodies and can tolerate a range of environmental conditions. (Thingujam et al., 2024) 
 
 
-**2.2. Nutritional Value**
+<br> **2.2. Nutritional Value**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed is highly nutritious, containing 20-35g of protein per 100g dry weight. (Appenroth et al., 2017) In comparison, Pak Choi, a locally familiar vegetable, contains about 1.4g of protein per 100g fresh weight, which corresponds to roughly 18g per 100g dry weight. (WebMD, n.d.) Duckweed also doubles its biomass within approximately three days, allowing multiple harvests per week (ScienceDirect, 2016), whereas Pak Choi can typically only be harvested every three weeks. (NParks, 2023) This combination of high protein content and fast growth makes duckweed an attractive option for sustainable indoor food production. Already consumed in countries such as Thailand (Zięć et al., 2025), it demonstrates considerable potential as a future food ingredient. 
 
 
-**2.3. Clonal Reproduction and Sigmoidal Growth**
+<br> **2.3. Clonal Reproduction and Sigmoidal Growth**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed’s clonal reproduction is closely linked to the classic logistic (sigmoidal) growth model used in population dynamics. (Faizal et al., 2021) Duckweed primarily reproduces through vegetative budding, where a mother frond produces daughter fronds that remain attached briefly before separating. (Zhang et al., 2020) Each new frond is genetically identical, or a clone, and under stable environmental conditions, each frond has roughly the same probability of producing new fronds per unit time. (Ziegler, 2025)
 
@@ -51,12 +51,12 @@ layout: home
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exponential growth cannot continue indefinitely. As the mat thickens and density increases, growth slows due to density-dependent factors such as self-shading and waste accumulation. (Walsh et al., 2021)
 
 
-**2.4. Factors Affecting Growth**
+<br> **2.4. Factors Affecting Growth**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Several environmental and physiological factors influence duckweed growth in controlled systems. Light intensity and photoperiod affect photosynthesis and biomass accumulation, while temperature influences metabolic rates and reproduction speed. (Islam et al., 2025) Nutrient availability, particularly nitrogen, phosphorus and micronutrients, directly impact frond production and protein content. (Ruvini Hiththatiyage et al., 2026) Water quality parameters such as pH and the presence of toxins or pollutants can also limit growth. (Jones et al., 2023) Additionally, overcrowding and self-shading in dense mats can slow reproduction, (Walsh et al., 2021) while the accumulation of microbial films on the fronds can further inhibit growth. (Zhang et al., 2010) 
 
 
-**2.5. Indicators of Poor Growth**
+<br> **2.5. Indicators of Poor Growth**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Poor duckweed growth can be identified through several observable signs. Healthy fronds float on the water surface, but stressed or unhealthy ones may produce turions, which sink, indicating reduced buoyancy or survival strategy under stress. (Ziegler et al., 2023) Discolouration, such as white or yellowed fronds, can signal nutrient deficiencies, disease or environmental stress. (Bunyoo et al., 2022)
 
@@ -66,61 +66,10 @@ layout: home
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed is a small, fast-growing aquatic plant that floats on the surface of freshwater and reproduces primarily through asexual budding, producing genetically identical plants that contribute to rapid colony formation. It is one of the smallest plants, typically 1-15 mm in length, with simple, flat, oval-shaped fronds. (Ziegler et al., 2023) The fronds are buoyant due to air-filled tissues, which help keep the plant afloat (Chen, 2024) and  form dense mats on the water surface. (Walsh et al., 2021) Duckweed naturally grows in still or slow-moving freshwater bodies and can tolerate a range of environmental conditions. (Thingujam et al., 2024) 
 1.1.2. *Beyond Food Production: The Other Dimensions of Food Insecurity*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While the physical food availability is important, it is only one aspect of food insecurity. Economic and physical access to food, food utilisation and stability of these factors are equally critical. (World Bank Group, 2025) In the pursuit of productivity and profit, issues such as rising food prices, environmental degradation and social inequalities were often overlooked or even exacerbated. (Dorward, 2013) More importantly, many people still do not receive adequate nutrition from the food they consume, highlighting that availability alone does not guarantee food security. (Bhardwaj et al., 2024)
-
-1.1.3. *Decreasing Nutritional Content in Food Produced*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A major conundrum of modern food systems is the decline in nutritional quality. The focus on high-yield, fast-growing crop varieties, coupled with the intensive use of chemical fertilisers and pesticides, has gradually reduced the levels of essential vitamins and minerals in staple foods. Modern crops such as rice, wheat and maize contain lower concentrations of nutrients like iron, zinc and protein compared to traditional varieties. (Bhardwaj et al., 2024) Furthermore, monoculture farming and soil degradation have limited the diversity of nutrients available in our diets. (Kaur et al., 2024)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Simultaneously, global diets have shifted towards highly processed, calorie-dense but nutrient-poor foods. (Popkin & Ng, 2021) This trend widens dietary inequality as nutritious food becomes more expensive to produce and less accessible. (Hoenink et al., 2024) Resultantly, individuals who rely primarily on affordable and convenient unhealthy options are more susceptible to maladies such as weakened immune system and mental health problems due to malnutrition (Appendix). (Saunders & Smith, 2010)
-	
-1.1.4. *The Fourth Agricultural Revolution*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Fourth Agricultural Revolution, also known as Agriculture 4.0 or smart farming, represents the next phase in agricultural transformation. Its two core components are precision agriculture and advanced technological integration. Precision agriculture focuses on targeted management of soil, water and nutrient inputs to help crops reach optimal growth while minimising waste. The second component involves the use of advanced technologies such as artificial intelligence (AI), the Internet of Things (IoT), robotics and big data analysis. (Javaid et al., 2022) Together, these approaches enable real-time monitoring of soil conditions, crop health and resource use, allowing farmers to optimise inputs like water and fertilisers, thereby improving yields without depleting natural resources. (Verdouw et al., 2021)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Addressing food insecurity today requires a dual focus: not only increasing food production but also improving the nutritional quality of food and ensuring equitable access. Agriculture 4.0 provides an opportunity to achieve this balance by emphasising sustainability and data-driven decision-making. 
 
 
 
-<br> **1.2. Food Insecurity in Singapore**
 
-1.2.1. *The Urgent Need for Food Security*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Due to land scarcity and the lack of natural resources, Singapore imports more than 90% of its food and only 1% of its land is allocated for agricultural use. This heavy reliance on imports is not sustainable as global supply chains are vulnerable to disruptions from climate change, political instability or pandemics. To address this, the Singapore Food Agency (SFA) has implemented the “Three Food Baskets” strategy. It focuses on diversifying food import sources to reduce dependency on any single country, growing overseas by investing in food production abroad and growing locally. (Lim, 2021) With regard to local food production, as part of the Singapore Green Plan 2030, the nation aims to produce 30% of its nutritional needs locally by 2030. (Singapore Green Plan 2030, 2024) Measures supporting this goal include community gardening programs (Teng & Montesclaros, 2017), funding research for sustainable urban farming (Tan, 2022) and promoting indoor farms. (Begum, 2022) Despite these initiatives, Singapore continues to face challenges in achieving substantial local food production with the 2030 target imminent. (Tham, 2024)
-
-1.2.2. *Indoor Farming*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indoor farm refers to the cultivation of crops in a controlled and enclosed environment. (SFA, 2023)  It involves different methods such as vertical farming, hydroponics, aeroponics, and aquaponics. These allow for food to be produced year-round, more sustainably and safely. (Kish, 2024) Locally, the efficient use of limited land and stable supply are crucial. The government has actively funded and supported indoor farms, albeit with limited success, as many continue to struggle due to high costs of operations, stringent regulations and a shortage of highly skilled labour. (Loh, 2024) Thus, the focus has shifted toward funding the adoption of advanced technology including automated farming equipment and infrastructure. (Begum, 2025a)
-
-1.2.3. *Why Indoor Farming Remains Essential*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Singaporean consumers often choose locally grown produce for its freshness, safety and lack of pesticides, while those who prefer imported food do so because of lower prices, greater variety and perceived better taste and quality. (Tham, 2024) With the adoption of Agriculture 4.0 technologies, indoor farms have the potential to address these gaps. Precision agriculture can help improve efficiency, optimise resource use and enhance crop quality. (Rathor et al., 2024) Over time, these advancements could reduce production costs and expand the variety of locally grown produce, allowing indoor farms to better meet consumer expectations while maintaining their inherent advantages. Furthermore, the Singapore Green Plan 2030 was recently postponed to 2035, with renewed plans to support indoor farms and revised targets to increase production of both vegetable and protein. While progress is slow, it is premature to abandon efforts to expand indoor farms and investment in these farms cannot be overlooked. (Begum, 2025b)
-
-<br> **1.3. Problem Statement**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Having established the challenges of food insecurity and potential of indoor farming in Singapore, the problem can be summarised as follows: Singapore aims to increase local production to meet its nutritional needs and improve food security. However, indoor farms struggle to remain viable while consumers continue to prefer imported food for its lower prices and perceived quality. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To mitigate this problem, we aim to support indoor farms in enhancing nutritional content through three key areas: controlling cyanobacteria growth, cultivating microgreens and implementing sensor-based monitoring.
-
-1.3.1. *Cyanobacteria Growth*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While indoor farms have reduced many potential contaminants, cyanobacteria continue to pose a significant challenge as they compete with plants for essential nutrients, reducing plant growth and consequently, the nutritional content of it. (Wang et al., 2021) Additionally, cyanobacteria can form biofilms that harbour pathogens and produce toxins, posing further risks. They are pervasive, growing rapidly in many areas, from pipes to irrigation lines. Regular maintenance is therefore essential, including weekly inspections, mechanical cleaning and chlorine-based disinfection. (An et al., 2024)
-
-1.3.2. *Shifting Focus: Microgreens over Regular Greens*
-
-Our microgreen of choice is duckweed, a rapidly growing and high-protein food source. It has 20-35g of protein per 100g dry weight. (Appenroth et al., 2017) In comparison, Pak Choi, a locally familiar vegetable, contains about 1.4g of protein per 100g fresh weight which corresponds to about 18g of protein per 100g dry weight. (WebMD, n.d.) 
-While duckweed doubles in biomass within 3 days so it can be harvested a few times a week (ScienceDirect, 2016), Pak Choi can only be harvested every 3 weeks. (NParks, 2023) Thus, cultivating duckweed allows indoor farms to produce more protein quickly and easily. Already consumed in countries such as Thailand, duckweed demonstrates considerable potential as a future food ingredient. (Zięć et al., 2025) With continued research and development, it could play a valuable role in promoting nutritious diets while providing a highly productive alternative to traditional greens. 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, microgreens offer better commercial viability. While indoor farms have traditionally focused on Asian leafy greens to match consumer preferences, these crops are often difficult to cultivate indoors and yield lower profit margins. (Tham, 2024) By incorporating microgreens alongside locally familiar vegetables, indoor farms can improve both the nutritional quality and profitability of their produce, while better meeting consumer expectations for pricing and variety. (EDB, 2025)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our microgreen of choice is duckweed, a rapidly growing and high-protein food source. It has 20-35g of protein per 100g dry weight. (Appenroth et al., 2017) In comparison, Pak Choi, a locally familiar vegetable, contains about 1.4g of protein per 100g fresh weight which corresponds to about 18g of protein per 100g dry weight. (WebMD, n.d.) 
-While duckweed doubles in biomass within 3 days so it can be harvested a few times a week (ScienceDirect, 2016), Pak Choi can only be harvested every 3 weeks. (NParks, 2023) Thus, cultivating duckweed allows indoor farms to produce more protein quickly and easily. Already consumed in countries such as Thailand, duckweed demonstrates considerable potential as a future food ingredient. (Zięć et al., 2025) With continued research and development, it could play a valuable role in promoting nutritious diets while providing a highly productive alternative to traditional greens. 
-
-
-1.3.3. *Sensor-based Monitoring*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Decision-making in indoor farms can be improved by leveraging real-time data collected through sensors, a key element of precision agriculture. These sensors monitor critical factors such as environmental conditions and nutrient levels, enabling farmers to make informed, timely decisions that optimise plant growth, maximise nutritional content and prevent potential issues before they affect yield or quality. (Verdouw et al., 2021)
 
 <br> **1.4. Interaction between Cyanobacteria and Duckweed**
 
