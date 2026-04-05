@@ -62,6 +62,7 @@ layout: home
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Poor duckweed growth can be identified through several observable signs. Healthy fronds float on the water surface, but stressed or unhealthy ones may produce turions, which sink, indicating reduced buoyancy or survival strategy under stress. (Ziegler et al., 2023) Discolouration, such as white or yellowed fronds, can signal nutrient deficiencies, disease or environmental stress. (Bunyoo et al., 2022)
 
+<br>
 
 # 3. Biofilm (Shannen) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biofilms originate from microorganisms naturally present in water, including bacteria, fungi, algae and protozoa, which can attach to any suitable surface in a moist environment. (Ali et al., 2023) These microorganisms secrete a self-produced matrix called extracellular polymeric substances (EPS), made of polysaccharides, proteins, DNA and water, which protects the community and enables its expansion. (Zhao et al., 2023) While environmental parameters can be precisely controlled in indoor cultivation systems, biofilm readily establishes and exhibits high resilience, presenting a significant challenge to maintaining healthy duckweed culture. This section examines the growth of biofilm and its negative interactions with duckweed.
@@ -82,6 +83,7 @@ layout: home
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although biofilms can be beneficial in some contexts such as stabilising ecosystems, recycling nutrients or supporting beneficial microbial communities (Musa et al., 2024), they are detrimental to duckweed cultivation in controlled systems. On duckweed fronds, biofilms adhere to the plant surface, physically obstructing frond reproduction (Zhang et al., 2010) and hindering nutrient uptake, leading to slower growth and lower biomass. Additionally, biofilms can harbour competing or pathogenic microbes, further compromising plant health (An et al., 2024) and potential for safe consumption. (Zięć et al., 2025) Although a dense duckweed population can partially limit biofilm accumulation (Beitle et al., 2025), this comes at the cost of reduced productivity and continued negative impacts on overall crop performance.
 
+<br>
 
 # 4. Value Proposition (Shannen) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To address the problem of biofilm in duckweed cultivation, we identified stakeholders impacted and evaluated current management measures, recognising that existing methods are few, disruptive and labour-intensive. The proposed system aims to provide a non-destructive and automated biofilm management by monitoring fronds in real time and applying a novel removal method. 
