@@ -140,7 +140,7 @@ layout: home
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed cultures were maintained for 7 days, under controlled laboratory conditions to ensure reproducibility and accurate evaluation of interventions. Cultures were grown in 5cm by 5cm square containers with a 10 cm height. Environmental conditions were maintained at a temperature of 23°C, with a long day light cycle (16 hours light, 8 hours dark). The growth medium had a pH of 7.5 and was prepared according to the composition detailed in table X below. 
 
 
-|Stock Compound | Concentration (mM) |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Stock Compound | Concentration (mM) |
 | :--- | :--- |
 | Monopotassium Phosphate | 0.15 |
 | Calcium Nitrate Tetrahydrate | 1.00 |
