@@ -259,7 +259,7 @@ Table X: Composition of Growth Medium
 
 Table X. Growth Rates in Control and Surface Agitation Experiments from Day 2-6
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The intervention effectively removed some biofilm from the duckweed surface. Additionally, the duckweed showed no signs of discolouration or sinking, indicating minimal impact to its health. As shown in Table X, the growth rate was the highest on day 3 following the intervention, but this effect was not sustained. After day 3, the growth rate declined significantly, suggesting that residual biofilm on the surface near the duckweed continued to affect its growth. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The intervention effectively removed some biofilm from the duckweed surface. Additionally, the duckweed showed no signs of discolouration or sinking, indicating minimal impact to its health. As shown in Table X, the growth rate was the highest on day 3 following the intervention, but this effect was not sustained. After day 3, the growth rate declined significantly, suggesting that residual biofilm on the surface near the duckweed continued to affect its growth. In comparison, the control exhibited duckweed sinking and a negative growth rate, making direct comparison with the intervention unreliable. 
 
 
 6.2.4. *Evaluation*
@@ -285,7 +285,7 @@ Table X. Growth Rates in Control and Surface Agitation Experiments from Day 2-6
 
 Table X. Growth Rates in Control and Magnetic Stirrer Experiments from Day 2-6
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The intervention effectively removed most biofilm from the duckweed surface. Additionally, the duckweed showed no signs of discolouration or sinking, indicating minimal impact to its health. As shown in Table X, the growth rate was the highest on day 3 following the intervention and this effect was sustained. After day 3, growth rates decreased slightly, suggesting that as the biofilm settled below, it had less impact on the duckweed. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The intervention effectively removed most biofilm from the duckweed surface. Additionally, the duckweed showed no signs of discolouration or sinking, indicating minimal impact to its health. As shown in Table X, the growth rate was the highest on day 3 following the intervention and this effect was sustained. After day 3, growth rates decreased slightly, suggesting that as the biofilm settled below, it had less impact on the duckweed. In comparison, the control exhibited duckweed sinking and a negative growth rate, making direct comparison with the intervention unreliable. 
 
 6.3.4. *Evaluation*
 
