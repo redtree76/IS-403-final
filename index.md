@@ -243,7 +243,7 @@ Table X: Composition of Growth Medium
 6.2.3. *Results* 
 (insert table) 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The intervention effectively removed some biofilm from the duckweed surface. Additionally, the duckweed showed no signs of discolouration or sinking, indicating minimal impact to its health. As shown in Table X, the growth rate was the highest on day 3 following the intervention, but this effect was not sustained. After day 3, the growth rate declined, suggesting that residual biofilm on the surface near the duckweed continued to affect its growth. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The intervention effectively removed some biofilm from the duckweed surface. Additionally, the duckweed showed no signs of discolouration or sinking, indicating minimal impact to its health. As shown in Table X, the growth rate was the highest on day 3 following the intervention, but this effect was not sustained. After day 3, the growth rate declined significantly, suggesting that residual biofilm on the surface near the duckweed continued to affect its growth. 
 
 
 6.2.4. *Evaluation*
@@ -264,7 +264,7 @@ Table X: Composition of Growth Medium
 6.3.3. *Results* 
 (insert table) 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The intervention effectively removed most biofilm from the duckweed surface. Additionally, the duckweed showed no signs of discolouration or sinking, indicating minimal impact to its health. As shown in Table X, the growth rate was the highest on day 3 following the intervention and this effect was sustained. After day 3, growth rates decreased slightly, suggesting that as the biofilm settled below, it had less impact on the duckweed. 
 
 6.3.4. *Evaluation*
 
@@ -275,8 +275,7 @@ Table X: Composition of Growth Medium
 
 # 7. Optimization of Chosen Concept Solution: Magnetic Stirrer (Jingten)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We selected the magnetic stirrer as the preferred intervention because it successfully dislodged biofilm and allowed fragments to spin down while improving duckweed growth rate. Compared to the other two methods, it performed best in terms of biofilm removal, health, and potential for implementation. The focus of optimisation is now on fine-tuning vortex speed to maximise biofilm detachment while minimising stress or damage to the duckweed, ensuring an effective and balanced intervention.  
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We selected the magnetic stirrer as the preferred intervention because it effectively dislodged biofilm and allowed fragments to settle, resulting in the greatest improvement in growth rate. Compared to the other two methods, it also performed best in terms of biofilm removal, health, and potential for implementation. The focus of optimisation is now on fine-tuning vortex speed to maximise biofilm detachment while minimising stress or damage to the duckweed, ensuring an effective and balanced intervention. 
 <br>**7.1. Experimental Method** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To optimize the magnetic stirrer, we conducted an experiment for stirring at different speeds for duckweed with biofilm. To ensure a fair comparison, key variables were kept constant across all trials, including tank volume, stir bar size and the position of the stir bar. Biofilm removal was assessed through visual observation of detachment from duckweed fronds. 
