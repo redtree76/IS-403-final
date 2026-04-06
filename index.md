@@ -173,7 +173,7 @@ Table X: Composition of Growth Medium
 
 (insert graph) 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Day 1 reflects the lag phase, days 2-6 represent the exponential phase and day 7 corresponds to the plateau phase. Because growth rates vary across these three phases, only the exponential phase was used to compare the effects of the interventions on growth rate. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Day 1 reflects the lag phase (Faizal et al., 2021) while days 2-7 represent the exponential phase. Because growth rates vary across these three phases, only the exponential phase was used to compare the effects of the interventions on growth rate. 
 
 5.2.4. *Duckweed Health Assessment* 
 
