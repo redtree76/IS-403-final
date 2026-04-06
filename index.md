@@ -81,6 +81,7 @@ layout: home
 
 <br> **3.4. Negative Impact of Biofilm Adherence on Duckweed Growth**
 
+![](crop_IMG_20260331_133231.jpg)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although biofilms can be beneficial in some contexts such as stabilising ecosystems, recycling nutrients or supporting beneficial microbial communities (Musa et al., 2024), they are detrimental to duckweed cultivation in controlled systems. On duckweed fronds, biofilms adhere to the plant surface, physically obstructing frond reproduction (Zhang et al., 2010) and hindering nutrient uptake, leading to slower growth and lower biomass. Additionally, biofilms can harbour competing or pathogenic microbes, further compromising plant health (An et al., 2024) and potential for safe consumption. (Zięć et al., 2025) Although a dense duckweed population can partially limit biofilm accumulation (Beitle et al., 2025), this comes at the cost of reduced productivity and continued negative impacts on overall crop performance.
 
 <br>
@@ -161,7 +162,7 @@ Table X: Composition of Growth Medium
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Standardising the initial biomass ensures that all cultures start with a comparable population of fronds, which is critical for accurately evaluating growth and biofilm intervention. Small differences in starting population can lead to large divergences in growth over time, especially during the exponential phase. Starting with consistent biomass allows for reliable comparison of growth rates, frond coverage and responses to biofilm removal across treatments. It also ensures that each culture enters the lag, exponential and plateau phases under comparable conditions, so differences observed in growth or health are due to experimental variables, not initial population size. Without standardisation, variations in initial biomass could mask or exaggerate the effect of intervention strategies, reducing the accuracy and reproducibility of results. 
 
-![Figure X](duckweed_cross.png)
+![Figure X](<duckweed cross.png>)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To standardise initial biomass, we first spread the duckweed fronds evenly across the cultivation tank. For even distribution, we 3D-printed a cross-shaped divider that divides the tank into four quadrants, allowing us to place fronds uniformly in each section. This ensured that all cultures started with comparable population density.
 
@@ -175,7 +176,7 @@ Table X: Composition of Growth Medium
 
 5.2.4. *Duckweed Health Assessment* 
 
-![duckweed health conditions](duckweedhealth.png)
+![duckweed health conditions](<duckweed health.png>)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since duckweed typically grows in still water, any mechanical intervention must account for the movement it generates, as excessive agitation could damage fronds or affect buoyancy. Duckweed health was evaluated manually before and after biofilm removal interventions. Observations focused on key indicators such as yellowing or pale fronds and sinking behaviour which reflect stress. These assessments provided qualitative data on plant health and allowed evaluation of any negative impacts caused by biofilm formation or the mechanical removal process. 
 
@@ -215,7 +216,7 @@ Table X: Composition of Growth Medium
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Given the complex structure of a loofah, a preliminary experiment was done to identify the optimal cut section used for filtration. 
 
-![](loofahcut.png)
+![](<loofah cut.png>)
 *Figure X. Exploration of Optimal Loofah Filter Surface. The loofah was cut along the dotted line to create surface b and c. (a) Transverse section of loofah as filter. (b) Longitudinal section from outer surface of loofah as filter. (c) Longitudinal section from inner surface of loofah as filter.*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The experiment was conducted using a biofilm substitute made from sodium alginate and calcium chloride, which has a similar structure as the algal biofilm found in the duckweed tank during the problem identification phase. (Borchard et al., 2005) By creating a biofilm substitute of different sizes, the biofilm retention ability of the loofah on different surfaces was quantified by the increase in wet mass after filtering water containing the biofilm substitute. 
