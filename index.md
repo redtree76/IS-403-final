@@ -1,6 +1,5 @@
 ---
-title: Home
-layout: home
+title: Biofilm Removal for Duckweed Cultivation
 ---
 
 **CDE4301 IS-403**
