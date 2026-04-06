@@ -133,73 +133,79 @@ layout: home
 <br>
 
 # 5. Methods (Jingten)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To identify potential concept solutions, we established a set of protocols to ensure accurate evaluation. Duckweed cultures were set up in controlled lab environments, with initial biomass was standardised to enable consistent comparison. Growth was monitored using a camera-based imaging system, while duckweed health was assessed manually before and after biofilm removal. Biofilm removal interventions were carried out at the appropriate time and data were analysed by comparing treated and untreated cultures to assess the effectiveness of intervention and duckweed growth. 
 
 <br> **5.1. Duckweed Culture Setup** 
 
 (insert picture of set up) 
 
-	Duckweed cultures were maintained for 7 days, under controlled laboratory conditions to ensure reproducibility and accurate evaluation of interventions. Cultures were grown in 5cm by 5cm square containers with a 10 cm height. Environmental conditions were maintained at a temperature of 23°C, with a long day light cycle (16 hours light, 8 hours dark). The growth medium had a pH of 7.5 and was prepared according to the composition detailed in table X below. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed cultures were maintained for 7 days, under controlled laboratory conditions to ensure reproducibility and accurate evaluation of interventions. Cultures were grown in 5cm by 5cm square containers with a 10 cm height. Environmental conditions were maintained at a temperature of 23°C, with a long day light cycle (16 hours light, 8 hours dark). The growth medium had a pH of 7.5 and was prepared according to the composition detailed in table X below. 
 
 
 Table X: Composition of Growth Medium
 
 <br> **5.2. Growth Monitoring** 
-Images were captured once per day to monitor duckweed growth, frond surface coverage and biofilm formation. Daily imaging was selected as duckweed has a rapid growth rate, with noticeable changes occurring within short time periods. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Images were captured once per day to monitor duckweed growth, frond surface coverage and biofilm formation. Daily imaging was selected as duckweed has a rapid growth rate, with noticeable changes occurring within short time periods. 
 
 5.2.1. *Initial Biomass Standardisation*
 
 (insert picture of the 3d-printed cross and how it makes the starting mass the same) 
 
-Standardising the initial biomass ensures that all cultures start with a comparable population of fronds, which is critical for accurately evaluating growth and biofilm intervention. Small differences in starting population can lead to large divergences in growth over time, especially during the exponential phase. Starting with consistent biomass allows for reliable comparison of growth rates, frond coverage and responses to biofilm removal across treatments. It also ensures that each culture enters the lag, exponential and plateau phases under comparable conditions, so differences observed in growth or health are due to experimental variables, not initial population size. Without standardisation, variations in initial biomass could mask or exaggerate the effect of intervention strategies, reducing the accuracy and reproducibility of results. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Standardising the initial biomass ensures that all cultures start with a comparable population of fronds, which is critical for accurately evaluating growth and biofilm intervention. Small differences in starting population can lead to large divergences in growth over time, especially during the exponential phase. Starting with consistent biomass allows for reliable comparison of growth rates, frond coverage and responses to biofilm removal across treatments. It also ensures that each culture enters the lag, exponential and plateau phases under comparable conditions, so differences observed in growth or health are due to experimental variables, not initial population size. Without standardisation, variations in initial biomass could mask or exaggerate the effect of intervention strategies, reducing the accuracy and reproducibility of results. 
 
-To standardise initial biomass, we first spread the duckweed fronds evenly across the cultivation tank. For even distribution, we 3D-printed a cross-shaped divider that divides the tank into four quadrants, allowing us to place fronds uniformly in each section. This ensured that all cultures started with comparable population density.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To standardise initial biomass, we first spread the duckweed fronds evenly across the cultivation tank. For even distribution, we 3D-printed a cross-shaped divider that divides the tank into four quadrants, allowing us to place fronds uniformly in each section. This ensured that all cultures started with comparable population density.
 
 5.2.2. *Camera System for Growth Rate Measurement* 
-	A smartphone camera was used to capture images of the water surface. The setup was placed under consistent lighting to minimise shadows and reflections that could affect image analysis. A calibration scale was included in each image to ensure accurate measurement of surface area and coverage. Images were stored on the device and later transferred to a computer for processing using a python application, where analysis was performed using automated scripts. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A smartphone camera was used to capture images of the water surface. The setup was placed under consistent lighting to minimise shadows and reflections that could affect image analysis. A calibration scale was included in each image to ensure accurate measurement of surface area and coverage. Images were stored on the device and later transferred to a computer for processing using a python application, where analysis was performed using automated scripts. 
 
 
 5.2.3. *Duckweed Health Assessment* 
 
 (insert pictures of healthy, sinking and discoloured duckweed) 
 
-	Since duckweed typically grows in still water, any mechanical intervention must account for the movement it generates, as excessive agitation could damage fronds or affect buoyancy. Duckweed health was evaluated manually before and after biofilm removal interventions. Observations focused on key indicators such as yellowing or pale fronds and sinking behaviour which reflect stress. These assessments provided qualitative data on plant health and allowed evaluation of any negative impacts caused by biofilm formation or the mechanical removal process. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since duckweed typically grows in still water, any mechanical intervention must account for the movement it generates, as excessive agitation could damage fronds or affect buoyancy. Duckweed health was evaluated manually before and after biofilm removal interventions. Observations focused on key indicators such as yellowing or pale fronds and sinking behaviour which reflect stress. These assessments provided qualitative data on plant health and allowed evaluation of any negative impacts caused by biofilm formation or the mechanical removal process. 
 
 <br> **5.3. Biofilm Intervention Timing** 
 	
 (insert pictures of no biofilm, day 3 biofilm and thicker biofilm in later days)
 
-Biofilm removal was applied on day 3 of cultivation, corresponding to the early exponential growth phase of duckweed and initial stage of biofilm formation. At this stage, fronds are rapidly reproducing and most sensitive to disruptions in light and nutrient uptake. (Ziegler et al., 2023) Biofilm is in the early irreversible adhesion phase, appearing as a thin, slightly cloudy film on the surface of duckweed fronds and has not developed into a dense and resistant structure. (Bravo et al., 2023) The preceding reversible stage was not targeted, as microbial attachment is transient, weakly bound and difficult to detect or remove efficiently in real time. (Li et al., 2021) Targeting the early irreversible stage maximises removal effectiveness while minimising impact on plant growth. The biofilm is still thin and weakly established, allowing it to be removed without the need for harsh chemicals or strong physical forces that could damage the duckweed fronds. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biofilm removal was applied on day 3 of cultivation, corresponding to the early exponential growth phase of duckweed and initial stage of biofilm formation. At this stage, fronds are rapidly reproducing and most sensitive to disruptions in light and nutrient uptake. (Ziegler et al., 2023) Biofilm is in the early irreversible adhesion phase, appearing as a thin, slightly cloudy film on the surface of duckweed fronds and has not developed into a dense and resistant structure. (Bravo et al., 2023) The preceding reversible stage was not targeted, as microbial attachment is transient, weakly bound and difficult to detect or remove efficiently in real time. (Li et al., 2021) Targeting the early irreversible stage maximises removal effectiveness while minimising impact on plant growth. The biofilm is still thin and weakly established, allowing it to be removed without the need for harsh chemicals or strong physical forces that could damage the duckweed fronds. 
 
 
 <br> **5.4. Data Analysis** 
 
 (insert image of surface coverage quantification through image analysis)
 
-	Data from the camera-based growth monitoring were analysed. Surface coverage and growth rate were quantified for each experimental tank and treated cultures were compared to untreated controls based on these measurements. Duckweed health was recorded qualitatively before and after interventions. This approach allowed assessment of the effectiveness of biofilm removal on duckweed growth while providing qualitative insights into plant conditions. 
-	The surface coverage was quantified by percentage coverage. First, the image was cropped to standardize the total surface area. Duckweed were defined by circular edge and green color, and through edge detection and color recognition, a mask was applied on the duckweed to quantify the coverage area in each image.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data from the camera-based growth monitoring were analysed. Surface coverage and growth rate were quantified for each experimental tank and treated cultures were compared to untreated controls based on these measurements. Duckweed health was recorded qualitatively before and after interventions. This approach allowed assessment of the effectiveness of biofilm removal on duckweed growth while providing qualitative insights into plant conditions. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The surface coverage was quantified by percentage coverage. First, the image was cropped to standardize the total surface area. Duckweed were defined by circular edge and green color, and through edge detection and color recognition, a mask was applied on the duckweed to quantify the coverage area in each image.
 
 
 
 # 6. Potential Concept Solutions (Jingten)
-For preliminary testing of potential concept solutions, we followed the protocol outlined in Section 5. This section presents the intervention methods we selected, the rationale for each and how they were evaluated. Evaluation criteria includes the effectiveness of biofilm removal from the duckweed fronds, improvements in growth rate, impact on duckweed health and the feasibility of implementing the method in larger-scale cultivation systems.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For preliminary testing of potential concept solutions, we followed the protocol outlined in Section 5. This section presents the intervention methods we selected, the rationale for each and how they were evaluated. Evaluation criteria includes the effectiveness of biofilm removal from the duckweed fronds, improvements in growth rate, impact on duckweed health and the feasibility of implementing the method in larger-scale cultivation systems.
 
 <br>**6.1. Loofah-based Filtration System** 
 6.1.1. *Hypothesis and Rationale*
-Loofah is the fibrous, dried fruit of plants in the cucumber family (Cucurbitacaea) (Gong et al., 2024), consisting of a dense three-dimensional network of cellulose-based fibres. Its porous, lightweight and biodegradable structure makes it commonly used as a sponge (Chen et al., 2017) , while also serving as a low-cost support material in engineering and environmental systems. (Lei et al., 2025) 
 
-	In biofilm-related applications, loofah has been widely used in wastewater treatment systems due to its ability to support microbial attachment. (Lago et al., 2024) Its highly porous and fibrous structure provides a large surface area that promotes the adhesion and growth of microorganisms, enabling the formation of stable biofilms while maintaining good water flow. (Dang et al., 2020) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Loofah is the fibrous, dried fruit of plants in the cucumber family (Cucurbitacaea) (Gong et al., 2024), consisting of a dense three-dimensional network of cellulose-based fibres. Its porous, lightweight and biodegradable structure makes it commonly used as a sponge (Chen et al., 2017) , while also serving as a low-cost support material in engineering and environmental systems. (Lei et al., 2025) 
 
-These same properties suggest that loofah can be repurposed for biofilm removal. Its high surface area and rough microstructure provide numerous attachment sites (Sajjad et al., 2022), while its hydrophilicity, cellulose-rich surface enhances microbial adhesions. (Lei et al., 2025) Additionally, its porous structure allows duckweed to pass through with minimal resistance, enabling filtration without significant disruption. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In biofilm-related applications, loofah has been widely used in wastewater treatment systems due to its ability to support microbial attachment. (Lago et al., 2024) Its highly porous and fibrous structure provides a large surface area that promotes the adhesion and growth of microorganisms, enabling the formation of stable biofilms while maintaining good water flow. (Dang et al., 2020) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These same properties suggest that loofah can be repurposed for biofilm removal. Its high surface area and rough microstructure provide numerous attachment sites (Sajjad et al., 2022), while its hydrophilicity, cellulose-rich surface enhances microbial adhesions. (Lei et al., 2025) Additionally, its porous structure allows duckweed to pass through with minimal resistance, enabling filtration without significant disruption. 
 
 6.1.2. *Preliminary Experiment* 
-	Given the complex structure of a loofah, a preliminary experiment was done to identify the optimal cut section used for filtration. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Given the complex structure of a loofah, a preliminary experiment was done to identify the optimal cut section used for filtration. 
 
-Figure X. Exploration of Optimal Loofah Filter Surface. The loofah was cut along the dotted line to create surface b and c. (a) Transverse section of loofah as filter. (b) Longitudinal section from outer surface of loofah as filter. (c) Longitudinal section from inner surface of loofah as filter.
+*Figure X. Exploration of Optimal Loofah Filter Surface. The loofah was cut along the dotted line to create surface b and c. (a) Transverse section of loofah as filter. (b) Longitudinal section from outer surface of loofah as filter. (c) Longitudinal section from inner surface of loofah as filter.*
 
-The experiment was conducted using a biofilm substitute made from sodium alginate and calcium chloride, which has a similar structure as the algal biofilm found in the duckweed tank during the problem identification phase. (Borchard et al., 2005) By creating a biofilm substitute of different sizes, the biofilm retention ability of the loofah on different surfaces was quantified by the increase in wet mass after filtering water containing the biofilm substitute. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The experiment was conducted using a biofilm substitute made from sodium alginate and calcium chloride, which has a similar structure as the algal biofilm found in the duckweed tank during the problem identification phase. (Borchard et al., 2005) By creating a biofilm substitute of different sizes, the biofilm retention ability of the loofah on different surfaces was quantified by the increase in wet mass after filtering water containing the biofilm substitute. 
 
-The results showed significantly higher increase in wet mass in surface c, where the biofilm is trapped deep within the matrix of the loofah sponge when inspected visually. When filtered using surface a and b, the biofilm was only stuck near the surface of the matrix, and the porous structure of the loofah was disrupted by the biofilm. This suggests that a and b had a higher chance of clogging the filter, requiring frequent maintenance and upkeep, and filters at a lower efficiency. Based on the results, the next experiment was conducted using the inner surface of the loofah sponge.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The results showed significantly higher increase in wet mass in surface c, where the biofilm is trapped deep within the matrix of the loofah sponge when inspected visually. When filtered using surface a and b, the biofilm was only stuck near the surface of the matrix, and the porous structure of the loofah was disrupted by the biofilm. This suggests that a and b had a higher chance of clogging the filter, requiring frequent maintenance and upkeep, and filters at a lower efficiency. Based on the results, the next experiment was conducted using the inner surface of the loofah sponge.
 
 6.1.3. *Experiment* 
 
@@ -211,53 +217,57 @@ The results showed significantly higher increase in wet mass in surface c, where
 
 
 6.1.4. *Results* 
-	We were not able to accurately compare the growth data due to a reduction in initial duckweed density after filtration, as some fronds were retained by the loofah. As a result, it is difficult to determine whether a change in growth rate was due to effective biofilm removal or simply reduced competition from lower biomass. Additionally, some fronds turned white after filtration, indicating stress or potential damage caused by mechanical handling. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We were not able to accurately compare the growth data due to a reduction in initial duckweed density after filtration, as some fronds were retained by the loofah. As a result, it is difficult to determine whether a change in growth rate was due to effective biofilm removal or simply reduced competition from lower biomass. Additionally, some fronds turned white after filtration, indicating stress or potential damage caused by mechanical handling. 
 	
 6.1.5. *Evaluation*
-A key limitation of this method is that duckweed fronds were retained within the loofah during filtration. Although attempts were made to recover trapped fronds using distilled water, complete retrieval was not achieved, resulting in a reduction in biomass. Furthermore, the amount of biofilm removed may also vary between trials, depending on factors such as flow rate, pouring technique and how the loofah is packed, which affects reproducibility. While visual inspection suggested effective removal, some biofilm may remain on fronds. Over time, the loofah could become saturated with biofilm, reducing its effectiveness and requiring replacement. These factors, combined with labour requirements and potential biomass loss, limit the scalability and consistency of the method for larger cultivation systems. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A key limitation of this method is that duckweed fronds were retained within the loofah during filtration. Although attempts were made to recover trapped fronds using distilled water, complete retrieval was not achieved, resulting in a reduction in biomass. Furthermore, the amount of biofilm removed may also vary between trials, depending on factors such as flow rate, pouring technique and how the loofah is packed, which affects reproducibility. While visual inspection suggested effective removal, some biofilm may remain on fronds. Over time, the loofah could become saturated with biofilm, reducing its effectiveness and requiring replacement. These factors, combined with labour requirements and potential biomass loss, limit the scalability and consistency of the method for larger cultivation systems. 
 
 
 <br>**6.2. Stirring**
 6.2.1. *Hypothesis and Rationale*
-	We tested two methods of stirring for the removal of biofilm: surface agitation and magnetic stirrer. 
 
-Surface agitation involves physically stirring the duckweed culture to generate localised shear forces on the frond surfaces, disturbing growth of microorganisms. (Zhou et al., 2018) By gently moving the water around the plants, the biofilm in the early irreversible adhesion phase and loosely attached microbial aggregates can be dislodged. This method targets the interface between the frond and surrounding medium, disrupting developing microcolonies before the EPS matrix fully matures. However, the common practice of duckweed farming is to maintain a calm surface since agitation might disrupt duckweed growth.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We tested two methods of stirring for the removal of biofilm: surface agitation and magnetic stirrer. 
 
-A magnetic stirrer generates a shear force without highly disturbing the surface. A controlled vortex induces fluid motion and mixing throughout the liquid, with flow patterns depending on the rotation speed of the stir bar. (Halász et al., 2007) In biofilm systems, this shear can detach loosely adhered microbial cells and disrupt early-stage biofilm, during the irreversible phase. The vortex allows suspended particles and biofilm fragments to be lifted from the fronds without requiring direct mechanical contact, increasing the chance of detachment. (Jang et al., 2017) Because the fluid motion is evenly distributed, it can reach areas that are difficult to access with localised mechanical methods, providing a more uniform intervention. (Borosil Scientific, 2025) Some of the detached biofilm may settle toward the bottom of the tank due to gravity and vortex movement, reducing the amount of biofilm in contact with duckweed surfaces. (Glover & Fitzpatrick, 2007) In contrast, simply stirring the tank without a controlled vortex may only move water locally, causing uneven detachment and less predictable settling of biofilm fragments.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Surface agitation involves physically stirring the duckweed culture to generate localised shear forces on the frond surfaces, disturbing growth of microorganisms. (Zhou et al., 2018) By gently moving the water around the plants, the biofilm in the early irreversible adhesion phase and loosely attached microbial aggregates can be dislodged. This method targets the interface between the frond and surrounding medium, disrupting developing microcolonies before the EPS matrix fully matures. However, the common practice of duckweed farming is to maintain a calm surface since agitation might disrupt duckweed growth.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A magnetic stirrer generates a shear force without highly disturbing the surface. A controlled vortex induces fluid motion and mixing throughout the liquid, with flow patterns depending on the rotation speed of the stir bar. (Halász et al., 2007) In biofilm systems, this shear can detach loosely adhered microbial cells and disrupt early-stage biofilm, during the irreversible phase. The vortex allows suspended particles and biofilm fragments to be lifted from the fronds without requiring direct mechanical contact, increasing the chance of detachment. (Jang et al., 2017) Because the fluid motion is evenly distributed, it can reach areas that are difficult to access with localised mechanical methods, providing a more uniform intervention. (Borosil Scientific, 2025) Some of the detached biofilm may settle toward the bottom of the tank due to gravity and vortex movement, reducing the amount of biofilm in contact with duckweed surfaces. (Glover & Fitzpatrick, 2007) In contrast, simply stirring the tank without a controlled vortex may only move water locally, causing uneven detachment and less predictable settling of biofilm fragments.
 
 6.2.2. *Experiment* 
 
 (insert picture of surface stirring experiment)
 
-	Duckweed cultures were subjected to two conditions: a stirred treatment with surface agitation, and stirred using a magnetic stirrer to minimize surface disruption. In the surface agitation treatment, a spatula was gently moved through the medium and frond surfaces; in the magnetic stirrer treatment, the speed was set to 600rpm for one minute. These were compared to undisturbed control tanks, one with and one without biofilm.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed cultures were subjected to two conditions: a stirred treatment with surface agitation, and stirred using a magnetic stirrer to minimize surface disruption. In the surface agitation treatment, a spatula was gently moved through the medium and frond surfaces; in the magnetic stirrer treatment, the speed was set to 600rpm for one minute. These were compared to undisturbed control tanks, one with and one without biofilm.
 
 6.2.3. *Results* 
 
 
-	As shown in the graph, on day 3, the surface agitation and magnetic stirrer experiments had the hi
-
-
-
-The result showed that magnetic stirrer treatment improved duckweed growth, effectively dislodging biofilm from duckweed surfaces and spinning some fragments down toward the bottom of the tank, while the effectiveness of manual stirring of removing biofilm from the surface is much lower. The duckweed did not show any discoloration and sinking, suggesting that both methods had minimal impact on the duckweed health. Despite that, in both treatments, larger biofilm fragments that are already established still remain on the surface, due to the colony’s structure that is able to trap air within it. This is consistent with the need to remove biofilm when the EPS is still in its early stages of production. A higher vortex speed is required for better removal of biofilm. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The result showed that magnetic stirrer treatment improved duckweed growth, effectively dislodging biofilm from duckweed surfaces and spinning some fragments down toward the bottom of the tank, while the effectiveness of manual stirring of removing biofilm from the surface is much lower. The duckweed did not show any discoloration and sinking, suggesting that both methods had minimal impact on the duckweed health. Despite that, in both treatments, larger biofilm fragments that are already established still remain on the surface, due to the colony’s structure that is able to trap air within it. This is consistent with the need to remove biofilm when the EPS is still in its early stages of production. A higher vortex speed is required for better removal of biofilm. 
 
 6.2.4. *Evaluation*
-	Although stirring successfully dislodged biofilm from duckweed surfaces, the intervention alone is insufficient to fully control biofilm growth. Once detached, microbial cells remain in the medium and can reattach to fronds, allowing biofilm to redevelop. This highlights the need for an additional removal or containment mechanism to capture the dislodged biofilm, preventing it from sticking to duckweed again. Without such a system, repeated agitation may provide only temporary relief and biofilm can rapidly re-establish, limiting the effectiveness of the intervention. It has the potential to be scaled and automated, though further work is needed to optimise removal and settlement. Since the detached biofilm can settle, a method could be developed to contain and remove it efficiently. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although stirring successfully dislodged biofilm from duckweed surfaces, the intervention alone is insufficient to fully control biofilm growth. Once detached, microbial cells remain in the medium and can reattach to fronds, allowing biofilm to redevelop. This highlights the need for an additional removal or containment mechanism to capture the dislodged biofilm, preventing it from sticking to duckweed again. Without such a system, repeated agitation may provide only temporary relief and biofilm can rapidly re-establish, limiting the effectiveness of the intervention. It has the potential to be scaled and automated, though further work is needed to optimise removal and settlement. Since the detached biofilm can settle, a method could be developed to contain and remove it efficiently. 
 
 
 <br>**6.3. Concept Selection**
-	Based on the experiment results, we selected magnetic stirrer as our final concept. It is able to effectively dislodge biofilm from the surface thus alleviating the competitive stress on duckweed for nutrient and space. This method also has minimal impact on the duckweed health. The biofilm could later be removed from the tank with minimal disruption to the duckweed as it sinks to the bottom of the tank.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Based on the experiment results, we selected magnetic stirrer as our final concept. It is able to effectively dislodge biofilm from the surface thus alleviating the competitive stress on duckweed for nutrient and space. This method also has minimal impact on the duckweed health. The biofilm could later be removed from the tank with minimal disruption to the duckweed as it sinks to the bottom of the tank.
 While loofah filter is able to remove biofilm from the tank more effectively, the duckweed retention rate is significantly lower, and the mechanical stress also causes turion formation and discoloration. Hence, the filter method was not selected for further development.
 
 # 7. Optimization of Chosen Concept Solution: Magnetic Stirrer (Jingten)
-We selected the magnetic stirrer as the preferred intervention because it successfully dislodged biofilm and allowed fragments to spin down, while improving duckweed growth rate and maintaining frond health. Compared to the other two methods, it performed best in terms of biofilm removal, minimal impact on duckweed and potential for implementation. The focus of optimisation is now on fine-tuning vortex speed to maximise biofilm detachment while minimising stress or damage to the duckweed, ensuring an effective and balanced intervention. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We selected the magnetic stirrer as the preferred intervention because it successfully dislodged biofilm and allowed fragments to spin down, while improving duckweed growth rate and maintaining frond health. Compared to the other two methods, it performed best in terms of biofilm removal, minimal impact on duckweed and potential for implementation. The focus of optimisation is now on fine-tuning vortex speed to maximise biofilm detachment while minimising stress or damage to the duckweed, ensuring an effective and balanced intervention. 
 
 <br>**7.1. Experimental Method** 
-To optimize the magnetic stirrer, we conducted an experiment for stirring at different speeds for duckweed with biofilm. We also added an additional control to observe how this removal method impacts the duckweed growth when no biofilm is present. To ensure a fair comparison, key variables were kept constant across all trials, including tank volume, stir bar size and the position of the stir bar. Biofilm removal was assessed through visual observation of detachment from duckweed fronds. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To optimize the magnetic stirrer, we conducted an experiment for stirring at different speeds for duckweed with biofilm. We also added an additional control to observe how this removal method impacts the duckweed growth when no biofilm is present. To ensure a fair comparison, key variables were kept constant across all trials, including tank volume, stir bar size and the position of the stir bar. Biofilm removal was assessed through visual observation of detachment from duckweed fronds. 
 
 <br>**7.2. Optimisation of Vortex Speed**
-	While higher vortex speeds generate stronger shear forces that improve the removal of EPS (Hasan & Aggarwal, 2024), they can also negatively affect duckweed by causing physical stress. To evaluate this trade-off, experiments were conducted at two different speeds 600 rpm and 870 rpm. The higher speed prioritizes biofilm removal and disturbs the surface slightly while the lower speed ensures that the surface disturbance is minimal during the vortex. The intervention was carried out on day 3 and day 7 respectively.
 
-The results showed that in both clean and biofilm-infected duckweed, using a magnetic stirrer increases the overall growth rate. In the biofilm-infected tank, the magnetic stirrer at a higher speed had a slightly higher growth rate compared to the lower speed. This suggests that biofilm had a greater impact on duckweed growth compared to surface disturbance.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While higher vortex speeds generate stronger shear forces that improve the removal of EPS (Hasan & Aggarwal, 2024), they can also negatively affect duckweed by causing physical stress. To evaluate this trade-off, experiments were conducted at two different speeds 600 rpm and 870 rpm. The higher speed prioritizes biofilm removal and disturbs the surface slightly while the lower speed ensures that the surface disturbance is minimal during the vortex. The intervention was carried out on day 3 and day 7 respectively.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The results showed that in both clean and biofilm-infected duckweed, using a magnetic stirrer increases the overall growth rate. In the biofilm-infected tank, the magnetic stirrer at a higher speed had a slightly higher growth rate compared to the lower speed. This suggests that biofilm had a greater impact on duckweed growth compared to surface disturbance.
 
 
 
