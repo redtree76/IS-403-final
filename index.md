@@ -1,8 +1,10 @@
 ---
-title: Biofilm Removal for Duckweed Cultivation
+title: Home
+layout: home
 ---
 
 **CDE4301 IS-403**
+**Biofilm Removal for Duckweed Cultivation**
 
 # 1. Introduction (Shannen) 
 **1.1. The Rise of Microgreens and Smart Indoor Farming in Singapore**
@@ -81,12 +83,15 @@ title: Biofilm Removal for Duckweed Cultivation
 <br> **3.4. Negative Impact of Biofilm Adherence on Duckweed Growth**
 
 ![](crop_IMG_20260331_133231.jpg)
+
+*Figure 1. Biofilm In Duckweed Tank*
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although biofilms can be beneficial in some contexts such as stabilising ecosystems, recycling nutrients or supporting beneficial microbial communities (Musa et al., 2024), they are detrimental to duckweed cultivation in controlled systems. On duckweed fronds, biofilms adhere to the plant surface, physically obstructing frond reproduction (Zhang et al., 2010) and hindering nutrient uptake, leading to slower growth and lower biomass. Additionally, biofilms can harbour competing or pathogenic microbes, further compromising plant health (An et al., 2024) and potential for safe consumption. (Zięć et al., 2025) Although a dense duckweed population can partially limit biofilm accumulation (Beitle et al., 2025), this comes at the cost of reduced productivity and continued negative impacts on overall crop performance.
 
 <br>
 
 # 4. Value Proposition (Shannen) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	To address the problem of biofilm in duckweed cultivation, we identified stakeholders impacted and evaluated current management measures, recognising that existing methods are few, disruptive and labour-intensive. The proposed system aims to explore novel biofilm removal methods.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To address the problem of biofilm in duckweed cultivation, we identified stakeholders impacted and evaluated current management measures, recognising that existing methods are few, disruptive and labour-intensive. The proposed system aims to explore novel biofilm removal methods.
 
 
 <br> **4.1. Stakeholder Analysis**
@@ -135,9 +140,8 @@ title: Biofilm Removal for Duckweed Cultivation
 
 <br> **5.1. Duckweed Culture Setup** 
 
-(insert picture of set up) 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed cultures were maintained for 7 days, under controlled laboratory conditions to ensure reproducibility and accurate evaluation of interventions. Cultures were grown in 5cm by 5cm square containers with a 10 cm height. Environmental conditions were maintained at a temperature of 23°C, with a long day light cycle (16 hours light, 8 hours dark). The growth medium had a pH of 7.5 and was prepared according to the composition detailed in table X below. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed cultures were maintained for 7 days, under controlled laboratory conditions to ensure reproducibility and accurate evaluation of interventions. Cultures were grown in 5cm by 5cm square containers with a 10 cm height. Environmental conditions were maintained at a temperature of 23°C, with a long day light cycle (16 hours light, 8 hours dark). The growth medium had a pH of 7.5 and was prepared according to the composition detailed in Table 1 below. 
 
 
 |Stock Compound | Concentration (mM) |
@@ -151,7 +155,7 @@ title: Biofilm Removal for Duckweed Cultivation
 | Magnesium Sulfate Heptahydrate  | 1.00 |
 | Ethylenediaminetetraacetic Acid   | 0.025 |
 
-Table X: Composition of Growth Medium
+Table 1: Composition of Growth Medium
 
 <br> **5.2. Growth Monitoring** 
 
@@ -162,6 +166,8 @@ Table X: Composition of Growth Medium
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Standardising the initial biomass ensures that all cultures start with a comparable population of fronds, which is critical for accurately evaluating growth and biofilm intervention. Small differences in starting population can lead to large divergences in growth over time, especially during the exponential phase. Starting with consistent biomass allows for reliable comparison of growth rates, frond coverage and responses to biofilm removal across treatments. It also ensures that each culture enters the lag, exponential and plateau phases under comparable conditions, so differences observed in growth or health are due to experimental variables, not initial population size. Without standardisation, variations in initial biomass could mask or exaggerate the effect of intervention strategies, reducing the accuracy and reproducibility of results. 
 
 ![Figure X](<duckweed cross.png>)
+
+*Figure 2. Cross-shaped divider used to for standardized duckweed quantity based on surface area*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To standardise initial biomass, we first spread the duckweed fronds evenly across the cultivation tank. For even distribution, we 3D-printed a cross-shaped divider that divides the tank into four quadrants, allowing us to place fronds uniformly in each section. This ensured that all cultures started with comparable population density.
 
@@ -177,19 +183,20 @@ Table X: Composition of Growth Medium
 
 ![duckweed health conditions](<duckweed health.png>)
 
+*Figure 3. Duckweed health conditions based on visual cues. From left to right, healthy green duckweed frond, unhealthy discolored duckweed frond, turions formed by stressed duckweed*
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since duckweed typically grows in still water, any mechanical intervention must account for the movement it generates, as excessive agitation could damage fronds or affect buoyancy. Duckweed health was evaluated manually before and after biofilm removal interventions. Observations focused on key indicators such as yellowing or pale fronds and sinking behaviour which reflect stress. These assessments provided qualitative data on plant health and allowed evaluation of any negative impacts caused by biofilm formation or the mechanical removal process. 
 
 <br> **5.3. Biofilm Intervention Timing** 
 	
-(insert pictures of no biofilm, day 3 biofilm and thicker biofilm in later days)
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biofilm removal was applied on day 3 of cultivation, corresponding to the early exponential growth phase of duckweed and initial stage of biofilm formation. At this stage, fronds are rapidly reproducing and most sensitive to disruptions in light and nutrient uptake. (Ziegler et al., 2023) Biofilm is in the early irreversible adhesion phase, appearing as a thin, slightly cloudy film on the surface of duckweed fronds and has not developed into a dense and resistant structure. (Bravo et al., 2023) The preceding reversible stage was not targeted, as microbial attachment is transient, weakly bound and difficult to detect or remove efficiently in real time. (Li et al., 2021) Targeting the early irreversible stage maximises removal effectiveness while minimising impact on plant growth. The biofilm is still thin and weakly established, allowing it to be removed without the need for harsh chemicals or strong physical forces that could damage the duckweed fronds. 
 
 
 <br> **5.4. Data Analysis** 
 
 ![Figure X](imganalysis2.png)
-*Figure X. Image analysis of duckweed fronds. Right shows image of an observation of duckweed tank, with the percentage coverage in dicated on the top left. Left shows a masked layer on the duckweed fronds area. 
+
+*Figure 4. Image analysis of duckweed fronds. Right shows image of an observation of duckweed tank, with the percentage coverage in dicated on the top left. Left shows a masked layer on the duckweed fronds area.*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data from the camera-based growth monitoring were analysed. Surface coverage and growth rate were quantified for each experimental tank and treated cultures were compared to untreated controls based on these measurements. Duckweed health was recorded qualitatively before and after interventions. This approach allowed assessment of the effectiveness of biofilm removal on duckweed growth while providing qualitative insights into plant conditions. 
 
@@ -216,15 +223,14 @@ Table X: Composition of Growth Medium
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Given the complex structure of a loofah, a preliminary experiment was done to identify the optimal cut section used for filtration. 
 
 ![](<loofah cut.png>)
-*Figure X. Exploration of Optimal Loofah Filter Surface. The loofah was cut along the dotted line to create surface b and c. (a) Transverse section of loofah as filter. (b) Longitudinal section from outer surface of loofah as filter. (c) Longitudinal section from inner surface of loofah as filter.*
+
+*Figure 5. Exploration of Optimal Loofah Filter Surface. The loofah was cut along the dotted line to create surface b and c. (a) Transverse section of loofah as filter. (b) Longitudinal section from outer surface of loofah as filter. (c) Longitudinal section from inner surface of loofah as filter.*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The experiment was conducted using a biofilm substitute made from sodium alginate and calcium chloride, which has a similar structure as the algal biofilm found in the duckweed tank during the problem identification phase. (Borchard et al., 2005) By creating a biofilm substitute of different sizes, the biofilm retention ability of the loofah on different surfaces was quantified by the increase in wet mass after filtering water containing the biofilm substitute. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The results showed significantly higher increase in wet mass in surface c, where the biofilm is trapped deep within the matrix of the loofah sponge when inspected visually. When filtered using surface a and b, the biofilm was only stuck near the surface of the matrix, and the porous structure of the loofah was disrupted by the biofilm. This suggests that a and b had a higher chance of clogging the filter, requiring frequent maintenance and upkeep, and filters at a lower efficiency. Based on the results, the next experiment was conducted using the inner surface of the loofah sponge.
 
 6.1.3. *Experiment* 
-
-(insert picture of loofah filtration experiment)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We proceed to investigate the effect of loofah on duckweed growth rate. The experiment was set up with a clean control and a biofilm-infected control to be observed without any intervention. For the intervention, the duckweed culture, along with growth medium, was poured through a loofah or a kitchen sponge into a separate tank. A control setup was prepared by pouring an equivalent amount of duckweed culture directly into another tank without passing through the loofah to understand how pouring disrupts the duckweed growth.
 
@@ -248,18 +254,18 @@ Table X: Composition of Growth Medium
 6.2.2. *Experiment* 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed cultures were subjected to two conditions: a stirred treatment and an unstirred control. In the stirred treatment, a spatula was gently moved through the medium and frond surfaces. The unstirred control was left undisturbed to allow natural biofilm formation. 
-(insert picture of surface stirring experiment)
 
 
 6.2.3. *Results* 
+
 | Day | 2 | 3 | 4 | 5 | 6 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Control | 4.53 | -3.66 | 9.61 | -10.9 | 13.0 |
 | Surface Agitation | -1.98 | 13.1 | 0.35 | 0.97 | 7.80 | 
 
-Table X. Growth Rates in Control and Surface Agitation Experiments from Day 2-6
+Table 2. Growth Rates in Control and Surface Agitation Experiments from Day 2-6
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The intervention effectively removed some biofilm from the duckweed surface. Additionally, the duckweed showed no signs of discolouration or sinking, indicating minimal impact to its health. As shown in Table X, the growth rate was the highest on day 3 following the intervention, but this effect was not sustained. After day 3, the growth rate declined significantly, suggesting that residual biofilm on the surface near the duckweed continued to affect its growth. In comparison, the control exhibited duckweed sinking and a negative growth rate, making direct comparison with the intervention unreliable. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The intervention effectively removed some biofilm from the duckweed surface. Additionally, the duckweed showed no signs of discolouration or sinking, indicating minimal impact to its health. As shown in Table 2, the growth rate was the highest on day 3 following the intervention, but this effect was not sustained. After day 3, the growth rate declined significantly, suggesting that residual biofilm on the surface near the duckweed continued to affect its growth. In comparison, the control exhibited duckweed sinking and a negative growth rate, making direct comparison with the intervention unreliable. 
 
 
 6.2.4. *Evaluation*
@@ -278,14 +284,15 @@ Table X. Growth Rates in Control and Surface Agitation Experiments from Day 2-6
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed cultures were subjected to two conditions: a stirred treatment and an unstirred control. In the stirred treatment, a magnetic stirrer generated a continuous vortex throughout the medium, applying shear forces to both the water column and frond surfaces. The unstirred control was left undisturbed to allow natural biofilm formation. 
 
 6.3.3. *Results* 
+
 | Day | 2 | 3 | 4 | 5 | 6 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Control | 4.53 | -3.66 | 9.61 | -10.9 | 13.0 |
 | Magnetic Stirrer | 11.1 | 13.3 | 7.17 | 7.31 | 7.80 |
 
-Table X. Growth Rates in Control and Magnetic Stirrer Experiments from Day 2-6
+Table 3. Growth Rates in Control and Magnetic Stirrer Experiments from Day 2-6
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The intervention effectively removed most biofilm from the duckweed surface. Additionally, the duckweed showed no signs of discolouration or sinking, indicating minimal impact to its health. As shown in Table X, the growth rate was the highest on day 3 following the intervention and this effect was sustained. After day 3, growth rates decreased slightly, suggesting that as the biofilm settled below, it had less impact on the duckweed. In comparison, the control exhibited duckweed sinking and a negative growth rate, making direct comparison with the intervention unreliable. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The intervention effectively removed most biofilm from the duckweed surface. Additionally, the duckweed showed no signs of discolouration or sinking, indicating minimal impact to its health. As shown in Table 3, the growth rate was the highest on day 3 following the intervention and this effect was sustained. After day 3, growth rates decreased slightly, suggesting that as the biofilm settled below, it had less impact on the duckweed. In comparison, the control exhibited duckweed sinking and a negative growth rate, making direct comparison with the intervention unreliable. 
 
 6.3.4. *Evaluation*
 
@@ -312,20 +319,40 @@ Table X. Growth Rates in Control and Magnetic Stirrer Experiments from Day 2-6
 <br>
 
 # 8. Final Design Specifications (Isaac) 
-<br>**8.1. Camera Monitoring System** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The final design integrates monitoring and automated biofilm removal from duckweed fronds and medium surface in a cultivation system. Key components include: a camera monitoring system, an automated trigger system and a magnetic stirrer, filtration system and an automated jet cleaning of filter module.The module is also 15cm by 15cm in size, making it a small prototype that is modular. 
 
+![Figure X](Vortex_filtration_system_with_camera.png)
+*Figure 6 Vortex rotating nylon belt filtration system with camera*
+
+<br>**8.1. Camera Monitoring System** 
+<br>**8.1.1 Camera** 
+- OV5640 5MP Fixed Focus lens
+- A camera is mounted on a bracket above the primary tank
+- Control: ESP32 S3 WROOM Freenove is used, with a flexible cable connector to connect directly to the OV5640
+- Power: 18650 battery with a TP5400 power supply powers the camera for 14 days, for testing. 
+
+<br>**8.1.2. Image Analysis** 
+- Using HSV boundaries to detect algae, which are of darker greens than wolffia, and fourier transform to remove the low frequency spatial features (long, larger objects) compared to the higher frequency smaller duckweed. 
 
 <br>**8.2. Automated Trigger System** 
+- The camera system takes a photo once every 6 hours. When the biofilm growth is too high and /or crosses the threshold where duckweed growth is slowing, the filtration system is activated. 
 
 
 <br>**8.3. Filtration Mechanism** 
+- Primary filter: 100 micron nylon filter
+- Secondary filter: 40 micron cell filter
+- Primary filter: ensures a separation between the wolffia and the biofilm that will be pulled past the primary filter. The primary filter pore size is smaller than wolffia (300 micrometers) which ensures this. 
+- In the cleaning tank, the peristaltic pumps pull the biofilm through the 40 micron filter, which traps the biofilm in the filter. The solution is returned to the primary tank in a closed system, to ensure a recovery of nutrients. 
 
 
 
 <br>**8.4. Magnetic Stirrer** 
+- Creates a vortex that pulls down biofilm past the 100 micron nylon filter
+- separates the biofilm downwards from the floating wolffia above the nylon filter 
 
 
 <br>**8.5. Cost of Prototype** 
+
 |  | Component | Cost (SGD) |
 | :--- | :--- | :--- |
 | 1 | OV5640 DVP Fixed Focus  | 9.48 |
@@ -341,25 +368,128 @@ Table X. Growth Rates in Control and Magnetic Stirrer Experiments from Day 2-6
 | 11 | 12V 5A AC to DC Power Adaptor | 14.90 |
 |  | Total | 117.73 |
 
+Table 4. Cost of Prototype
 
-<br>
+<br>**8.6. Prototype filtration mechanismr** 
+
+The vortex from the magnetic stirrer pulls the biofilm at the surface downwards. It separates the biofilm from the wolffia (on the surface undisturbed) while the biofilm travels downwards. It passes through the 100 micron filter and / or gets stuck onto the 100 micron filter, to the bottom of the primary tank. Once the biofilm has crossed the filter and is pulled down into the lower half of the primary tank, the peristaltic peristaltic pump moves the biofilm to the cleaning tank. For the biofilm that gets stuck on the 100 micron nylon filter, it is also moved into the cleaning tank via a stepper motor that pulls the 100 micron nylon filter belt. 
+
+In the cleaning tank, a jet spray sprays the 100 micron filter vigorously and the biofilm is removed out from the 100 micron nylon filter. The biofilm in the secondary tank is then filtered through a 40 micron filter using a peristaltic pump. This catches the biofilm and the resulting solution is delivered back to the primary tank to recycle the nutrients in a closed system. 
+
+![Figure X](Vortex_filtration_system_2.png)
+*Figure 7 Vortex rotating nylon belt filtration system*
+
+![Figure X](Vortex_filtration_system_top_view.png)
+*Figure 8 Vortex rotating nylon belt filtration system Top Down View*
+
+Initially a 2D rotating disc was considered, however, it had significant downsides compared to the flexible 100 micron nylon filter. Though seemingly straightforward, where the filter once clogged by the vortex can be rotated out to the cleaning tank, a rotating disc would require additional actuators and seal at the interface of the primary tank to prevent water egress outside of the primary tank. (seen in the red crosses below)
+
+![Figure X](Vortex_2d_disc.png)
+*Figure 9 Previous prototype: Vortex 2D rotating disc modular filtration prototyle, red x mark potential water egress*
+
+<br>**Rotating Drum Filters** 
+
+Rotating Drum Filters where a large mesh drum rotates and water flows into the drum outwards of the drum. This will trap the wolffia against the drum as the spray bar jets at the wolffia and biofilm. Eventually it will be sprayed into the waste bin. (Aqua Exclusive, 2025)
+
+In comparison, our system uses a ‘false bottom’ conveyor belt, where the mesh is horizontal and submerged and plants float above the moving belt. Rotating Drum Filters would excel in removing fish feces and uneaten food but are not ideal for selective cleaning of wolffia.
+
+<br>**Surface Skimmers** 
+
+Surface skimmers are also normally used to remove biofilm in aquaponics and ponds. Where a hinged flap or gate is situated a few millimeters below the water level. Water spills over the weir into a mechanical filter e.g. a mesh bag. (SkimOil, 2026) However, this would not work for duckweed agriculture as the surface skimmer is unable to separate the also floating duckweed from the biofilm. Additionally, when the water is pulled into the mesh bag, the duckweed will no longer be floating in the growth area (the surface of the medium), having been removed from its original growing area, and is mixed with the biofilm. 
+
+<br>**Travelling Band Screens** 
+
+Travelling Band Screens are another industrial high capacity secondary filtration system to remove debris from raw water before it reaches other downstream equipment. In agriculture, they are used for algae management (International Water Screens, 2015). These are also self-cleaning, which is an essential feature that our filtration system is also designed to have. However, they will not be suited to separate wolffia from biofilm as it only lifts what is on the screen, which will be both wolffia and biofilm. An additional separating mechanism (e.g. a vortex) is required to pull the biofilm through given a large enough mesh size, however, yet smaller than the wolffia’s diameter. These findings were subsequently integrated in our design. 
+
+<br>**Chemical methods** 
+
+Immersion into diluted sodium hypochlorite (bleach) or hydrogen peroxide is done in the lab, however, in agriculture, as a routine maintenance procedure, it might result in increased plant stress and requires high precision as if submerged for longer than specified duration will lead to total plant death (Kettongruang et al., 2026), as well as low sustainability requiring external chemicals. Especially in larger scale ponds, the amount of bleach increases compared to a smaller controlled lab setting. 
+
+<br>**Ultrasonic Cleaning** 
+
+Ultrasonic cleaning uses acoustic cavitation and is used for cleaning in medicine (Khan et al., 2023), jewelry (Juangjai et al., 2025) and small crevices. It can also be used for cleaning agricultural machinery or post harvest food processing of fruits and vegetables. (Hong et al., 2022). However, for duckweed wolffia, when ultrasonic waves are applied it will cause cell disruption (Mirón-Mérida et al., 2024) and is unusuitable for wolffia. 
+
+Our design attempts to leverage on the design for self cleaning of the filter (in a rotating drum filter), by using a flexible nylon filter that can be physically moved to a separate chamber for cleaning, without stressing the wolffia duckweed physically by tumbling, hence not using a 3D drum design. This allows for self cleaning which is also more advantageous compared to a static mesh bag filter. Such a novel design had to be developed as wolffia is delicate and would be crushed under traditional industrial methods, leaving the wolffia untouched on the surface, and to separate wolffia from biofilm during the wolffia’s growth stage, as continuous culture management, is uncommon.  From our preliminary search, this design is our unique competitive advantage in duckweed biofilm filtration systems. 
 
 # 9. Detail Design (Isaac) 
 
+<br>**9.1. Design Requirements** 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our target users are indoor farms in Singapore, which operate under tight margins and limited technical staff. (Loh, 2024) The system is designed to provide a cost-effective, automated and scalable solution for controlling biofilm in duckweed cultivation while maintaining plant health.
+
+
+| Practical Considerations |  | 
+| :--- | :--- |
+| Affordability  | Systems should be low-cost to encourage adoption.  |
+| Ease of Use  | Plug-and-play setup with minimal technical knowledge required. |
+| Waste Management  | Detached biofilm will be collected and neutralised before being safely disposed of.   |
+| Space Efficiency  | Compact design fits standard indoor farm tanks without interfering with lighting or circulation. |
+| Energy Efficiency  | The system consumes minimal energy as the stirrer and filtration mechanism operates intermittently, triggered automatically only when biofilm is detected. |
+| Maintenance and Hygiene   | Components should be easy to clean, resistant to microbial growth and require minimal labour.  |
+| Regulatory Compliance  | All parts in contact with duckweed or growth medium must be food-safe and comply with Singapore Food Agency (SFA) standards. |
+| Placement and Stability  | Stirrer and magnetic bar must remain stable, avoiding dislodgement that could damage duckweed or tanks.  |
+| Scalability  | The modular design allows multiple tanks to be controlled independently or through a centralised interface. For larger farms, a single control unit can monitor multiple cameras and stirrers, reducing hardware duplication and operational costs.  |
+
+Table 5. Practical Considerations
+
+| Technical Considerations |  | 
+| :--- | :--- |
+| Automated Intervention  | High-resolution, waterproof cameras continuously monitor the water surface and duckweed. A lightweight computer vision algorithm detects early-stage biofilm and automatically triggers the stirrer when thresholds are reached. |
+| Control Unit and Feedback  | The microcontroller and or single-board computer integrates camera input, stirrer control and user interface. Operation time, vortex intensity and biofilm levels are logged and users are notified of abnormal growth or required maintenance. |
+| Effective Biofilm Removal  | Controlled vortex lifts biofilm without physically scraping or damaging fronds while spinning the detached biofilm down for removal.  |
+| Timing Control  | Intervention occurs during the early irreversible adhesion stage for maximum effectiveness. |
+| Adjustable Operation  | Vortex speed and duration can be tuned according to tank size and water depth. |
+| Minimal Disruption to Duckweed Growth  | The method minimises frond damage, discolouration and sinking.  |
+| Durability and Reliability   | Components withstand repeated use, water exposure and cleaning without degradation.  |
+| Multi-Tank Monitoring  | The system supports centralised control, allowing farm staff to monitor multiple tanks from a single dashboard. Alerts for biofilm growth or maintenance are aggregated to simplify management. 
+
+Table 6. Technical Considerations
+
+<br>**9.2. Implementation** 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Based on the design requirements outlined above, this section illustrates how the system can be implemented in indoor aquaponics agriculture environment. The prototype would be modular and could be distributed on the water surface with a flotation device. It will pull the surrounding water into the filtration mechanism, cleaning the local surface in a distributed manner. 
+
+<br>**9.2.1. System Layout** 
+
+![Figure X](layout_pond_modular.png)
+*Figure 10 Layout of possible arrangement of floating modular prototypes in a duckweed agriculture pond with distributed localised filtration*
+
+# 10. Recommendations for Future Work (Isaac) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Future development will focus on enhancing the efficiency and sustainability of indoor farming systems through the expansion of the system’s capabilities. While the current design provides automated biofilm control, it also establishes a foundation for more intelligent cultivation systems. Its modular and adaptable architecture enables future integration of advanced monitoring and automation technologies, which could reduce labour requirements and support scalable indoor farming operations. These improvements are also expected to enhance crop performance by enabling early issue detection and optimised growing conditions, resulting in higher yield, improved quality and greater consistency. 
+
+
+<br>**10.1. Expanding Camera Monitoring Applications** 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A key area for future development is the expansion of the current camera and image processing system beyond its primary role in biofilm detection. At present, the system is limited to a single-purpose function. However, future enhancements could transform it into a comprehensive monitoring tool for indoor farming applications. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indoor farming systems often rely heavily on manual observation to assess plant health and determine harvest readiness, which is both labour-intensive and susceptible to human error. Future work could address this limitation by integrating advanced computer vision techniques to enable continuous, real-time monitoring of plant growth and environmental conditions. (Ghazal et al., 2024) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For instance, the system could be developed to detect early signs of mold, nutrient deficiencies and overgrowth in microgreens and leafy vegetables. It could also be extended to track duckweed biomass for yield optimisation, as well as identify pests or unwanted algae before infestations become severe. In addition, future implementations may include monitoring water quality through visual surface analysis, analysing plant density to prevent overcrowding and determining optimal harvest timing based on colour and coverage indicators. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By enabling early detection of potential issues and supporting data-driven decision-making, these enhancements could significantly improve crop yield and quality while reducing reliance on manual labour. Ultimately, this would increase the scalability and efficiency of indoor farming systems. 
+
+<br>**10.2. Magnetic Stirrer Functional Expansion** 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another important direction for future work involves enhancing the functionality of the magnetic stirrer system. Currently, its primary role is focused on biofilm removal. However, future improvements could enable adjustable stirring speed and timing to support a wider range of applications. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By incorporating controllable stirring parameters, the system could be used to optimize nutrient distribution within the water, preventing concentration gradients and promoting uniform plant growth. (Borosil Scientific, 2025) Future developments may also allow for the reduction of stagnant zones, which are often associated with the accumulation of algae and harmful microorganisms. Furthermore, adaptive control strategies could be introduced to match the sensitivity of different crops. Controlled vortex formation could also be explored as a method to enhance oxygenation through increased surface agitation. (V. van de Griend et al., 2022) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These improvements would transform the magnetic stirrer from a single-function component into a multi-functional system for water quality management and environmental optimisation, thereby increasing its overall effectiveness in indoor farming operations. 
+
+<br>**10.3. Improvements to treatment and recycling of biofilm for nutrients** 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biofilm is currently caught in a 40 micron filter and the output water is recycled back into the primary tank. Further development into treating the biofilm to break down the bacteria and recover the nutrients, via mineralization with aerobic bacteria, can be explored and integrated.  (Szekely & Jijakli, 2022) A waste collection system could be set up between the modular filters to facilitate recovery of the biofilm for nutrients. 
+
+<br>**10.4. Future Research Directions** 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beyond system-level improvements, several broader research directions could further advance the development of automated indoor farming technologies. Future research will focus on advancing automated indoor farming through AI-driven predictive monitoring, enabling early detection of biofilm formation, nutrient imbalances and plant stress. (Aijaz et al., 2025) The integration of multi-parameter sensing, combining camera data with inputs such as pH and dissolved oxygen, could support real-time system optimisation. (Hemal et al., 2024)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sustainability will also be a key focus, with efforts to optimise energy and resource use. (Kumari et al., 2025) Additionally, IoT-enabled remote monitoring and predictive maintenance could enhance system reliability (Verdouw et al., 2021), while standardisation may support the development of modular, scalable solutions for wider adoption. (Mallinger et al., 2024) 
 
 <br>
 
-# 10. Evaluation (Isaac) 
-
-
-<br>
-
-# 11. Recommendations for Future Work (Isaac) 
-
-
-<br>
-
-# 12. Conclusion (Isaac) 
+# 11. Conclusion (Isaac) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project addresses the challenge of biofilm formation in duckweed cultivation, which limits plant health and productivity in indoor farming systems. In the context of Singapore’s push for greater food security and local production, improving the reliability and efficiency of high-yield crops like duckweed is increasingly important. The proposed solution integrates real-time camera monitoring with a novel, automated, non-destructive biofilm removal mechanism, enabling early detection and targeted intervention without relying on labour-intensive or chemical-based methods. By enhancing growth conditions and reducing maintenance demands, leveraging on its modular design, the system offers a practical and scalable approach for indoor farms. This work serves as a proof of concept, demonstrating the feasibility of the system under controlled laboratory conditions. However, further validation in real indoor farming environments is required to assess its scalability, robustness and long-term performance. 
 
 
 <br>
@@ -375,6 +505,8 @@ Ali, A., Zahra, A., Kamthan, M., Husain, F. M., Albalawi, T., Zubair, M., Alataw
 An, C., Ye Htut Zwe, Mei, M., Shang, G., Ling, Y., Poh, B. L., Zhou, W., & Li, D. (2024). Sanitization of hydroponic farming facilities in Singapore: what, why, and how. Applied and Environmental Microbiology. https://doi.org/10.1128/aem.00672-24 
 
 Appenroth, Klaus-J., Sree, K. S., Böhm, V., Hammann, S., Vetter, W., Leiterer, M., & Jahreis, G. (2017). Nutritional value of duckweeds (Lemnaceae) as human food. Food Chemistry, 217, 266–273. https://doi.org/10.1016/j.foodchem.2016.08.116 
+
+Aqua Exclusive. (2025, March 12). Rotary Drum Filter RDF. Aqua Exclusive. https://www.aqua-exclusive.com/rotary-drum-filter-rdf/ 
 
 Bachlechner, C., Zand, E., Eisenrauch, V., Mauermann, M., Jäger, H., & Schottroff, F. (2026). Biofilm Properties and Their Implications for Cleaning Processes in the Food Industry - A Review. Journal of Food Protection, 89(2), 100695. https://doi.org/10.1016/j.jfp.2025.100695 
 
@@ -420,11 +552,21 @@ Hasan, M. I., & Aggarwal, S. (2024). Matrix matters: How extracellular substance
 
 Hemal, Rahman, A., None Nurjahan, Islam, F., Ahmed, S., M. Shamim Kaiser, & Muhammad Raisuddin Ahmed. (2024). An Integrated Smart Pond Water Quality Monitoring and Fish Farming Recommendation Aquabot System. Sensors, 24(11), 3682–3682. https://doi.org/10.3390/s24113682
 
+Hong, C., Zhou, H.-C., Zhao, Y.-M., & Ma, H. (2022). Ultrasonic washing as an abiotic elicitor to induce the accumulation of phenolics of fresh-cut red cabbages: Effects on storage quality and microbial safety. Frontiers in Nutrition, 9, Article 1006440. https://doi.org/10.3389/fnut.2022.1006440
+
+International Water Screens. (2015). Agriculture. https://www.internationalwaterscreens.com/industries/agriculture/4
+
 Islam, M. F., Yang, J., Zhao, X., Kazmi, A., Li, X., Hu, H., Sun, Z., Chen, Y., P.P.M. Heenatigala, & Hou, H. (2025). Elevated light intensity and temperature enhance biomass, protein, and starch accumulation in duckweed. Industrial Crops and Products, 237, 122118–122118. https://doi.org/10.1016/j.indcrop.2025.122118
 
 Jang, H., Rusconi, R., & Stocker, R. (2017). Biofilm disruption by an air bubble reveals heterogeneous age-dependent detachment patterns dictated by initial extracellular matrix distribution. Npj Biofilms and Microbiomes, 3(1). https://doi.org/10.1038/s41522-017-0014-5
 
 Jones, G., Scullion, J., Dalesman, S., Robson, P., & Gwynn-Jones, D. (2023). Lowering pH enables duckweed (Lemna minor L.) growth on toxic concentrations of high-nutrient agricultural wastewater. Journal of Cleaner Production, 395, 136392. https://doi.org/10.1016/j.jclepro.2023.136392
+
+Juangjai, N., Chaiaiad, C., & Thongsri, J. (2025). Effect of Detergent, Temperature, and Solution Flow Rate on Ultrasonic Cleaning: A Case Study in the Jewelry Manufacturing Process. Clean Technologies, 7(4), 83. https://doi.org/10.3390/cleantechnol7040083
+
+Khan, M. U., Rehman, F., Saleem, M., Elahi, H., Sung, T. H., & Jabbar, H. (2023). Optimum driving of ultrasonic cleaner using impedance and FFT analysis with validation of image processing of perforated foils. Applied Sciences, 13(12), Article 6991. https://doi.org/10.3390/app13126991
+
+Kettongruang, S., Morikawa, M., & Boonmak, C. (2026). Diversity and Plant Growth-Promoting Potential of Duckweed-Associated Bacteria on Wolffia globosa Biomass Production and Nutritional Quality. Environmental microbiology reports, 18(2), e70312. https://doi.org/10.1111/1758-2229.70312
 
 Kulshrestha, A., & Gupta, P. (2024). Real-time biofilm detection techniques: advances and applications. Future Microbiology, 19(11), 1003–1016. https://doi.org/10.1080/17460913.2024.2350285
 
@@ -446,6 +588,8 @@ Mallinger, K., Corpaci, L., Neubauer, T., Tikász, I. E., Goldenits, G., & Banha
 
 Mehmood, Ch. T., Waheed, H., & Habimana, O. (2025). Occurrence, challenges, and control strategies for biofilms in irrigation networks of modern agriculture. Journal of Agriculture and Food Research, 25, 102616. https://doi.org/10.1016/j.jafr.2025.102616
 
+Mirón-Mérida, V. A., Soria-Hernández, C., Richards-Chávez, A., Ochoa-García, J. C., Rodríguez-López, J. L., & Chuck-Hernández, C. (2024). The Effect of Ultrasound on the Extraction and Functionality of Proteins from Duckweed (Lemna minor). Molecules, 29(5), 1122. https://doi.org/10.3390/molecules29051122
+
 Musa, O. I., Akande, S. A., Ijah, U. J. J., Abioye, O. P., Maude, A. M., Samuel, J. O., Mustapha, A., Abdulrahim, A.-M., & Gusdanis, A. C. G. (2024). Biofilms communities in the soil: characteristic and interactions using mathematical model. Research in Microbiology, 175(3), 104149. https://doi.org/10.1016/j.resmic.2023.104149
 
 NParks. (2023). Xiao Bai Cai. Nparks.gov.sg. https://gardeningsg.nparks.gov.sg/page-index/edible-plants/xiao-bai-cai/
@@ -465,6 +609,10 @@ Singapore Food Agency. (2023, December 14). MEDIA FACTSHEET - SINGAPORE CONTINUE
 Singh, A., Singh, J., Kaur, S., Mahendra Gunjal, Kaur, J., Nanda, V., Ullah, R., Sezai Ercisli, & Prasad Rasane. (2024). Emergence of microgreens as a valuable food, current understanding of their market and consumer perception: A review. Food Chemistry X, 23, 101527–101527. https://doi.org/10.1016/j.fochx.2024.101527
 
 Singh, N., Chetty, M., & Rathilal, S. (2025). Optimizing Hydrodynamics for Enhanced CoCultivation in Bubble Column Reactors. 42nd JOHANNESBURG International Conference on “Chemical, Biological and Environmental Engineering” (JCBEE-25). https://doi.org/10.17758/iicbe7.c1125107
+
+SkimOil. (2026, February 19). https://www.skimoil.com/floating-weir-oil-skimmer/ 
+
+Szekely, I., & Jijakli, M. H. (2022). Bioponics as a promising approach to sustainable agriculture: A review of the main methods for producing organic nutrient solution for hydroponics. Water, 14(23), Article 3975. https://doi.org/10.3390/w14233975
 
 Tallawi, M., Opitz, M., & Lieleg, O. (2017). Modulation of the mechanical properties of bacterial biofilms in response to environmental challenges. Biomaterials Science, 5(5), 887–900. https://doi.org/10.1039/c6bm00832a
 
