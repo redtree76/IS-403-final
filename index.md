@@ -18,7 +18,7 @@ layout: home
 
 <br> **1.3. Project Objectives**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project aims to develop a system to detect and remove biofilm forming on duckweed in controlled environments. It will begin by evaluating the problem of biofilm on duckweed and current control methods to assess their effectiveness and identify areas for improvement. Based on this, a new method for automated biofilm removal will be designed, and tested, while also considering its impact on duckweed growth. The project will also examine the efficiency and reliability of the system, consider its potential use in intensive duckweed cultivation and provide recommendations for future improvements and applications in sustainable, high-efficiency food production.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This project aims to develop a system to detect and remove biofilm forming on duckweed in controlled environments. It begins by evaluating the problem of biofilm on duckweed and current control methods to assess their effectiveness and identify areas for improvement. Different biofilm removal methods will then be compared to identify an approach that is both novel and effective. Based on these findings, the chosen method will be designed and tested, while considering its impact on duckweed growth. Finally, the project will consider its potential use in intensive duckweed cultivation and provide recommendations for future improvements and applications in food production. 
 
 <br>
 
