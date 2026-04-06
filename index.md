@@ -188,12 +188,12 @@ Table X: Composition of Growth Medium
 
 <br> **5.4. Data Analysis** 
 
-![Figure X](6242169476916908214.jpg)
-(insert image of surface coverage quantification through image analysis)
+![Figure X](imganalysis2.png)
+*Figure X. Image analysis of duckweed fronds. Right shows image of an observation of duckweed tank, with the percentage coverage in dicated on the top left. Left shows a masked layer on the duckweed fronds area. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data from the camera-based growth monitoring were analysed. Surface coverage and growth rate were quantified for each experimental tank and treated cultures were compared to untreated controls based on these measurements. Duckweed health was recorded qualitatively before and after interventions. This approach allowed assessment of the effectiveness of biofilm removal on duckweed growth while providing qualitative insights into plant conditions. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The surface coverage was quantified by percentage coverage. First, the image was cropped to standardize the total surface area. Duckweed were defined by circular edge and green color, and through edge detection and color recognition, a mask was applied on the duckweed to quantify the coverage area in each image.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The surface coverage was quantified by percentage coverage. First, the image was cropped to standardize the total surface area. Duckweed were defined by circular edge and green color, and through edge detection and defining hsv ranges, a mask was applied on the duckweed to quantify the coverage area in each image. As the app recognizes duckweed as green, unhealthy white duckweed was excluded from the area coverage.
 
 <br>
 
