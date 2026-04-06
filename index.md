@@ -161,7 +161,7 @@ Table X: Composition of Growth Medium
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Standardising the initial biomass ensures that all cultures start with a comparable population of fronds, which is critical for accurately evaluating growth and biofilm intervention. Small differences in starting population can lead to large divergences in growth over time, especially during the exponential phase. Starting with consistent biomass allows for reliable comparison of growth rates, frond coverage and responses to biofilm removal across treatments. It also ensures that each culture enters the lag, exponential and plateau phases under comparable conditions, so differences observed in growth or health are due to experimental variables, not initial population size. Without standardisation, variations in initial biomass could mask or exaggerate the effect of intervention strategies, reducing the accuracy and reproducibility of results. 
 
-![](duckweed cross.png)
+![](duckweed_cross.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To standardise initial biomass, we first spread the duckweed fronds evenly across the cultivation tank. For even distribution, we 3D-printed a cross-shaped divider that divides the tank into four quadrants, allowing us to place fronds uniformly in each section. This ensured that all cultures started with comparable population density.
 
