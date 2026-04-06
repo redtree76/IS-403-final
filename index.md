@@ -254,8 +254,8 @@ Table X: Composition of Growth Medium
 6.2.3. *Results* 
 | Day | 2 | 3 | 4 | 5 | 6 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Control | 0.15 | 0.15 | 0.15 | 0.15 | 0.15 |
-| Surface Agitation | 1.00 | 0.15 | 0.15 | 0.15 | 0.15 | 0.15 |
+| Control | 4.53 | -3.66 | 9.61 | -10.9 | 13.0 |
+| Surface Agitation | -1.98 | 13.1 | 0.35 | 0.97 | 7.80 | 
 
 Table X. Growth Rates in Control and Surface Agitation Experiments from Day 2-6
 
@@ -280,8 +280,8 @@ Table X. Growth Rates in Control and Surface Agitation Experiments from Day 2-6
 6.3.3. *Results* 
 | Day | 2 | 3 | 4 | 5 | 6 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Control | 0.15 | 0.15 | 0.15 | 0.15 | 0.15 |
-| Magnetic Stirrer | 1.00 | 0.15 | 0.15 | 0.15 | 0.15 | 0.15 |
+| Control | 4.53 | -3.66 | 9.61 | -10.9 | 13.0 |
+| Magnetic Stirrer | 11.1 | 13.3 | 7.17 | 7.31 | 7.80 |
 
 Table X. Growth Rates in Control and Magnetic Stirrer Experiments from Day 2-6
 
