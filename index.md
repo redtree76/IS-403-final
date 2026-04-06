@@ -159,9 +159,9 @@ Table X: Composition of Growth Medium
 
 5.2.1. *Initial Biomass Standardisation*
 
-(insert picture of the 3d-printed cross and how it makes the starting mass the same) 
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Standardising the initial biomass ensures that all cultures start with a comparable population of fronds, which is critical for accurately evaluating growth and biofilm intervention. Small differences in starting population can lead to large divergences in growth over time, especially during the exponential phase. Starting with consistent biomass allows for reliable comparison of growth rates, frond coverage and responses to biofilm removal across treatments. It also ensures that each culture enters the lag, exponential and plateau phases under comparable conditions, so differences observed in growth or health are due to experimental variables, not initial population size. Without standardisation, variations in initial biomass could mask or exaggerate the effect of intervention strategies, reducing the accuracy and reproducibility of results. 
+
+![](duckweed cross.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To standardise initial biomass, we first spread the duckweed fronds evenly across the cultivation tank. For even distribution, we 3D-printed a cross-shaped divider that divides the tank into four quadrants, allowing us to place fronds uniformly in each section. This ensured that all cultures started with comparable population density.
 
@@ -175,7 +175,7 @@ Table X: Composition of Growth Medium
 
 5.2.4. *Duckweed Health Assessment* 
 
-(insert pictures of healthy, sinking and discoloured duckweed) 
+![duckweed health conditions](duckweed health.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since duckweed typically grows in still water, any mechanical intervention must account for the movement it generates, as excessive agitation could damage fronds or affect buoyancy. Duckweed health was evaluated manually before and after biofilm removal interventions. Observations focused on key indicators such as yellowing or pale fronds and sinking behaviour which reflect stress. These assessments provided qualitative data on plant health and allowed evaluation of any negative impacts caused by biofilm formation or the mechanical removal process. 
 
@@ -214,6 +214,7 @@ Table X: Composition of Growth Medium
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Given the complex structure of a loofah, a preliminary experiment was done to identify the optimal cut section used for filtration. 
 
+![](loofah cut.png)
 *Figure X. Exploration of Optimal Loofah Filter Surface. The loofah was cut along the dotted line to create surface b and c. (a) Transverse section of loofah as filter. (b) Longitudinal section from outer surface of loofah as filter. (c) Longitudinal section from inner surface of loofah as filter.*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The experiment was conducted using a biofilm substitute made from sodium alginate and calcium chloride, which has a similar structure as the algal biofilm found in the duckweed tank during the problem identification phase. (Borchard et al., 2005) By creating a biofilm substitute of different sizes, the biofilm retention ability of the loofah on different surfaces was quantified by the increase in wet mass after filtering water containing the biofilm substitute. 
@@ -295,6 +296,7 @@ Table X. Growth Rates in Control and Magnetic Stirrer Experiments from Day 2-6
 # 7. Optimization of Chosen Concept Solution: Magnetic Stirrer (Jingten)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We selected the magnetic stirrer as the preferred intervention because it effectively dislodged biofilm and allowed fragments to settle, resulting in the greatest improvement in growth rate. Compared to the other two methods, it also performed best in terms of biofilm removal, health, and potential for implementation. The focus of optimisation is now on fine-tuning vortex speed to maximise biofilm detachment while minimising stress or damage to the duckweed, ensuring an effective and balanced intervention. 
+
 <br>**7.1. Experimental Method** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To optimize the magnetic stirrer, we conducted an experiment for stirring at different speeds for duckweed with biofilm. To ensure a fair comparison, key variables were kept constant across all trials, including tank volume, stir bar size and the position of the stir bar. Biofilm removal was assessed through visual observation of detachment from duckweed fronds. 
