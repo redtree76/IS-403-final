@@ -188,6 +188,7 @@ Table X: Composition of Growth Medium
 
 <br> **5.4. Data Analysis** 
 
+![Figure X](6242169476916908214.jpg)
 (insert image of surface coverage quantification through image analysis)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data from the camera-based growth monitoring were analysed. Surface coverage and growth rate were quantified for each experimental tank and treated cultures were compared to untreated controls based on these measurements. Duckweed health was recorded qualitatively before and after interventions. This approach allowed assessment of the effectiveness of biofilm removal on duckweed growth while providing qualitative insights into plant conditions. 
