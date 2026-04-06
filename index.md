@@ -86,7 +86,7 @@ layout: home
 <br>
 
 # 4. Value Proposition (Shannen) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To address the problem of biofilm in duckweed cultivation, we identified stakeholders impacted and evaluated current management measures, recognising that existing methods are few, disruptive and labour-intensive. The proposed system aims to provide a non-destructive and automated biofilm management by monitoring fronds in real time and applying a novel removal method. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	To address the problem of biofilm in duckweed cultivation, we identified stakeholders impacted and evaluated current management measures, recognising that existing methods are few, disruptive and labour-intensive. The proposed system aims to explore novel biofilm removal methods.
 
 
 <br> **4.1. Stakeholder Analysis**
