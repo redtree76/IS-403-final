@@ -312,6 +312,34 @@ Table X. Growth Rates in Control and Magnetic Stirrer Experiments from Day 2-6
 <br>
 
 # 8. Final Design Specifications (Isaac) 
+<br>**8.1. Camera Monitoring System** 
+
+
+<br>**8.2. Automated Trigger System** 
+
+
+<br>**8.3. Filtration Mechanism** 
+
+
+
+<br>**8.4. Magnetic Stirrer** 
+
+
+<br>**8.5. Cost of Prototype** 
+|  | Component | Cost (SGD) |
+| :--- | :--- | :--- |
+| 1 | OV5640 DVP Fixed Focus  | 9.48 |
+| 2 | 2 Peristaltic pumps | 32.62 |
+| 3 | 1 Magnetic induction stirrer | 18.86 |
+| 4 | 555 Motor 18V Diaphragm High Pressure Pump 8bar Pressure 150ml/min | 16.24 |
+| 5 | Double-layer Resin Car Fuel Hoses | 5.17 |
+| 6 | PVC Food OD 10xID 8mm, 1M | 2.13 |
+| 7 | LM2586 DC DC Step Down Buck Converter | 2.95 |
+| 8 | MG90s Stepper Motor |  |
+| 9 | MP1584EN Step Down Voltage Converter |  |
+| 10 | TB6612 Dual Motor Drive Board |  |
+| 11 | 12V 5A AC to DC Power Adaptor |  |
+|  | Total | 117.73 |
 
 
 <br>
