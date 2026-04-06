@@ -257,6 +257,8 @@ Table X: Composition of Growth Medium
 | Control | 0.15 | 0.15 | 0.15 | 0.15 | 0.15 |
 | Surface Agitation | 1.00 | 0.15 | 0.15 | 0.15 | 0.15 | 0.15 |
 
+Table X. Growth Rates in Control and Surface Agitation Experiments from Day 2-6
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The intervention effectively removed some biofilm from the duckweed surface. Additionally, the duckweed showed no signs of discolouration or sinking, indicating minimal impact to its health. As shown in Table X, the growth rate was the highest on day 3 following the intervention, but this effect was not sustained. After day 3, the growth rate declined significantly, suggesting that residual biofilm on the surface near the duckweed continued to affect its growth. 
 
 
@@ -276,7 +278,12 @@ Table X: Composition of Growth Medium
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed cultures were subjected to two conditions: a stirred treatment and an unstirred control. In the stirred treatment, a magnetic stirrer generated a continuous vortex throughout the medium, applying shear forces to both the water column and frond surfaces. The unstirred control was left undisturbed to allow natural biofilm formation. 
 
 6.3.3. *Results* 
-(insert table) 
+| Day | 2 | 3 | 4 | 5 | 6 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Control | 0.15 | 0.15 | 0.15 | 0.15 | 0.15 |
+| Magnetic Stirrer | 1.00 | 0.15 | 0.15 | 0.15 | 0.15 | 0.15 |
+
+Table X. Growth Rates in Control and Magnetic Stirrer Experiments from Day 2-6
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The intervention effectively removed most biofilm from the duckweed surface. Additionally, the duckweed showed no signs of discolouration or sinking, indicating minimal impact to its health. As shown in Table X, the growth rate was the highest on day 3 following the intervention and this effect was sustained. After day 3, growth rates decreased slightly, suggesting that as the biofilm settled below, it had less impact on the duckweed. 
 
