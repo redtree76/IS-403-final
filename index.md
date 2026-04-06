@@ -232,32 +232,42 @@ Table X: Composition of Growth Medium
 
 6.2.1. *Hypothesis and Rationale*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We tested two methods of stirring for the removal of biofilm: surface agitation and magnetic stirrer. 
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Surface agitation involves physically stirring the duckweed culture to generate localised shear forces on the frond surfaces, disturbing growth of microorganisms. (Zhou et al., 2018) By gently moving the water around the plants, the biofilm in the early irreversible adhesion phase and loosely attached microbial aggregates can be dislodged. This method targets the interface between the frond and surrounding medium, disrupting developing microcolonies before the EPS matrix fully matures. However, the common practice of duckweed farming is to maintain a calm surface since agitation might disrupt duckweed growth.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A magnetic stirrer generates a shear force without highly disturbing the surface. A controlled vortex induces fluid motion and mixing throughout the liquid, with flow patterns depending on the rotation speed of the stir bar. (Halász et al., 2007) In biofilm systems, this shear can detach loosely adhered microbial cells and disrupt early-stage biofilm, during the irreversible phase. The vortex allows suspended particles and biofilm fragments to be lifted from the fronds without requiring direct mechanical contact, increasing the chance of detachment. (Jang et al., 2017) Because the fluid motion is evenly distributed, it can reach areas that are difficult to access with localised mechanical methods, providing a more uniform intervention. (Borosil Scientific, 2025) Some of the detached biofilm may settle toward the bottom of the tank due to gravity and vortex movement, reducing the amount of biofilm in contact with duckweed surfaces. (Glover & Fitzpatrick, 2007) In contrast, simply stirring the tank without a controlled vortex may only move water locally, causing uneven detachment and less predictable settling of biofilm fragments.
-
 6.2.2. *Experiment* 
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed cultures were subjected to two conditions: a stirred treatment and an unstirred control. In the stirred treatment, a spatula was gently moved through the medium and frond surfaces. The unstirred control was left undisturbed to allow natural biofilm formation. 
 (insert picture of surface stirring experiment)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed cultures were subjected to two conditions: a stirred treatment with surface agitation, and stirred using a magnetic stirrer to minimize surface disruption. In the surface agitation treatment, a spatula was gently moved through the medium and frond surfaces; in the magnetic stirrer treatment, the speed was set to 600rpm for one minute. These were compared to undisturbed control tanks, one with and one without biofilm.
 
 6.2.3. *Results* 
+(insert table) 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The intervention effectively removed some biofilm from the duckweed surface. Additionally, the duckweed showed no signs of discolouration or sinking, indicating minimal impact to its health. As shown in Table X, the growth rate was the highest on day 3 following the intervention, but this effect was not sustained. After day 3, the growth rate declined, suggesting that residual biofilm on the surface near the duckweed continued to affect its growth. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The result showed that magnetic stirrer treatment improved duckweed growth, effectively dislodging biofilm from duckweed surfaces and spinning some fragments down toward the bottom of the tank, while the effectiveness of manual stirring of removing biofilm from the surface is much lower. The duckweed did not show any discoloration and sinking, suggesting that both methods had minimal impact on the duckweed health. Despite that, in both treatments, larger biofilm fragments that are already established still remain on the surface, due to the colony’s structure that is able to trap air within it. This is consistent with the need to remove biofilm when the EPS is still in its early stages of production. A higher vortex speed is required for better removal of biofilm. 
 
 6.2.4. *Evaluation*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although stirring successfully dislodged biofilm from duckweed surfaces, the intervention alone is insufficient to fully control biofilm growth. Once detached, microbial cells remain in the medium and can reattach to fronds, allowing biofilm to redevelop. This highlights the need for an additional removal or containment mechanism to capture the dislodged biofilm, preventing it from sticking to duckweed again. Without such a system, repeated agitation may provide only temporary relief and biofilm can rapidly re-establish, limiting the effectiveness of the intervention. It has the potential to be scaled and automated, though further work is needed to optimise removal and settlement. Since the detached biofilm can settle, a method could be developed to contain and remove it efficiently. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although some biofilm was successfully removed, the intervention alone is insufficient to fully control biofilm growth. Once detached, microbial cells remain in the medium and can reattach to fronds, allowing biofilm to redevelop. This highlights the need for an additional removal or containment mechanism to capture the dislodged biofilm, preventing it from sticking to duckweed again. Without such a system, repeated agitation may provide only temporary relief and biofilm can rapidly re-establish, limiting the effectiveness of the intervention. 
+
+<br>**6.3. Magnetic Stirrer**
+
+6.3.1. *Hypothesis and Rationale*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A magnetic stirrer generates a shear force without highly disturbing the surface. A controlled vortex induces fluid motion and mixing throughout the liquid, with flow patterns depending on the rotation speed of the stir bar. (Halász et al., 2007) In biofilm systems, this shear can detach loosely adhered microbial cells and disrupt early-stage biofilm, during the irreversible phase. The vortex allows suspended particles and biofilm fragments to be lifted from the fronds without requiring direct mechanical contact, increasing the chance of detachment. (Jang et al., 2017) Because the fluid motion is evenly distributed, it can reach areas that are difficult to access with localised mechanical methods, providing a more uniform intervention. (Borosil Scientific, 2025) Some of the detached biofilm may settle toward the bottom of the tank due to gravity and vortex movement, reducing the amount of biofilm in contact with duckweed surfaces. (Glover & Fitzpatrick, 2007) In contrast, simply stirring the tank without a controlled vortex may only move water locally, causing uneven detachment and less predictable settling of biofilm fragments.
 
 
-<br>**6.3. Concept Selection**
+6.3.2. *Experiment* 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed cultures were subjected to two conditions: a stirred treatment and an unstirred control. In the stirred treatment, a magnetic stirrer generated a continuous vortex throughout the medium, applying shear forces to both the water column and frond surfaces. The unstirred control was left undisturbed to allow natural biofilm formation. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Based on the experiment results, we selected magnetic stirrer as our final concept. It is able to effectively dislodge biofilm from the surface thus alleviating the competitive stress on duckweed for nutrient and space. This method also has minimal impact on the duckweed health. The biofilm could later be removed from the tank with minimal disruption to the duckweed as it sinks to the bottom of the tank.
-While loofah filter is able to remove biofilm from the tank more effectively, the duckweed retention rate is significantly lower, and the mechanical stress also causes turion formation and discoloration. Hence, the filter method was not selected for further development.
+6.3.3. *Results* 
+(insert table) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+6.3.4. *Evaluation*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The magnetic stirring intervention worked well, effectively dislodging most biofilm from duckweed surfaces and spinning fragments down toward the bottom of the tank. However, larger biofilm fragments still remained on the surface. This is consistent with the need to remove the biofilm when the EPS is still in its early stages of development. While further work is needed to optimize removal and settlement, it has the potential to be scaled and automated. Since the detached biofilm can settle, a method could be developed to contain and remove it efficiently.
+
 
 <br>
 
@@ -276,7 +286,9 @@ While loofah filter is able to remove biofilm from the tank more effectively, th
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It was observed that biofilm removal improved at 870 rpm. However, the vortex may have been too strong, as some discolouration was observed after the intervention. Further testing within the range of 600 to 870 rpm is needed to ensure that duckweed health is maintained. 
 
 
+<br>
 
+# 8. Final Design Specifications (Isaac) 
 
 
 
