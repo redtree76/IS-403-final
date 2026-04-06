@@ -314,9 +314,33 @@ Table X. Growth Rates in Control and Magnetic Stirrer Experiments from Day 2-6
 # 8. Final Design Specifications (Isaac) 
 
 
+<br>
+
+# 9. Detail Design (Isaac) 
 
 
+<br>
 
+# 10. Evaluation (Isaac) 
+
+
+<br>
+
+# 11. Recommendations for Future Work (Isaac) 
+
+
+<br>
+
+# 12. Conclusion (Isaac) 
+
+
+<br>
+
+# References
+
+Achinas, S., Yska, S. K., Charalampogiannis, N., Krooneman, J., & Euverink, G. J. W. (2020). A Technological Understanding of Biofilm Detection Techniques: A Review. Materials, 13(14), 3147. https://doi.org/10.3390/ma13143147 
+
+Aijaz, N., Lan, H., Raza, T., Yaqub, M., Iqbal, R., & Pathan, M. S. (2025). Artificial Intelligence in Agriculture: Advancing Crop Productivity and Sustainability. Journal of Agriculture and Food Research, 20, 101762. https://doi.org/10.1016/j.jafr.2025.101762 
 
 
 
