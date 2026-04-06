@@ -335,10 +335,10 @@ Table X. Growth Rates in Control and Magnetic Stirrer Experiments from Day 2-6
 | 5 | Double-layer Resin Car Fuel Hoses | 5.17 |
 | 6 | PVC Food OD 10xID 8mm, 1M | 2.13 |
 | 7 | LM2586 DC DC Step Down Buck Converter | 2.95 |
-| 8 | MG90s Stepper Motor |  |
-| 9 | MP1584EN Step Down Voltage Converter |  |
-| 10 | TB6612 Dual Motor Drive Board |  |
-| 11 | 12V 5A AC to DC Power Adaptor |  |
+| 8 | MG90s Stepper Motor | 5.34 |
+| 9 | MP1584EN Step Down Voltage Converter | 2.40 |
+| 10 | TB6612 Dual Motor Drive Board | 7.64 |
+| 11 | 12V 5A AC to DC Power Adaptor | 14.90 |
 |  | Total | 117.73 |
 
 
