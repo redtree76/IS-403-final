@@ -175,7 +175,7 @@ Table X: Composition of Growth Medium
 
 5.2.4. *Duckweed Health Assessment* 
 
-![duckweed health conditions](duckweed health.png)
+![duckweed health conditions](duckweedhealth.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since duckweed typically grows in still water, any mechanical intervention must account for the movement it generates, as excessive agitation could damage fronds or affect buoyancy. Duckweed health was evaluated manually before and after biofilm removal interventions. Observations focused on key indicators such as yellowing or pale fronds and sinking behaviour which reflect stress. These assessments provided qualitative data on plant health and allowed evaluation of any negative impacts caused by biofilm formation or the mechanical removal process. 
 
@@ -215,7 +215,7 @@ Table X: Composition of Growth Medium
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Given the complex structure of a loofah, a preliminary experiment was done to identify the optimal cut section used for filtration. 
 
-![](loofah cut.png)
+![](loofahcut.png)
 *Figure X. Exploration of Optimal Loofah Filter Surface. The loofah was cut along the dotted line to create surface b and c. (a) Transverse section of loofah as filter. (b) Longitudinal section from outer surface of loofah as filter. (c) Longitudinal section from inner surface of loofah as filter.*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The experiment was conducted using a biofilm substitute made from sodium alginate and calcium chloride, which has a similar structure as the algal biofilm found in the duckweed tank during the problem identification phase. (Borchard et al., 2005) By creating a biofilm substitute of different sizes, the biofilm retention ability of the loofah on different surfaces was quantified by the increase in wet mass after filtering water containing the biofilm substitute. 
