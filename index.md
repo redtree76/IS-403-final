@@ -192,6 +192,7 @@ Table X: Composition of Growth Medium
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For preliminary testing of potential concept solutions, we followed the protocol outlined in Section 5. This section presents the intervention methods we selected, the rationale for each and how they were evaluated. Evaluation criteria includes the effectiveness of biofilm removal from the duckweed fronds, improvements in growth rate, impact on duckweed health and the feasibility of implementing the method in larger-scale cultivation systems.
 
 <br>**6.1. Loofah-based Filtration System** 
+
 6.1.1. *Hypothesis and Rationale*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Loofah is the fibrous, dried fruit of plants in the cucumber family (Cucurbitacaea) (Gong et al., 2024), consisting of a dense three-dimensional network of cellulose-based fibres. Its porous, lightweight and biodegradable structure makes it commonly used as a sponge (Chen et al., 2017) , while also serving as a low-cost support material in engineering and environmental systems. (Lei et al., 2025) 
@@ -228,6 +229,7 @@ Table X: Composition of Growth Medium
 
 
 <br>**6.2. Surface Agitation**
+
 6.2.1. *Hypothesis and Rationale*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We tested two methods of stirring for the removal of biofilm: surface agitation and magnetic stirrer. 
