@@ -150,7 +150,8 @@ layout: home
 | Sodium Molybdate Dihydrate  | 0.0004 |
 | Magnesium Sulfate Heptahydrate  | 1.00 |
 | Ethylenediaminetetraacetic Acid   | 0.025 |
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Table X: Composition of Growth Medium
+
+Table X: Composition of Growth Medium
 
 <br> **5.2. Growth Monitoring** 
 
