@@ -252,7 +252,10 @@ Table X: Composition of Growth Medium
 
 
 6.2.3. *Results* 
-(insert table) 
+| Day | 2 | 3 | 4 | 5 | 6 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Control | 0.15 | 0.15 | 0.15 | 0.15 | 0.15 |
+| Surface Agitation | 1.00 | 0.15 | 0.15 | 0.15 | 0.15 | 0.15 |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The intervention effectively removed some biofilm from the duckweed surface. Additionally, the duckweed showed no signs of discolouration or sinking, indicating minimal impact to its health. As shown in Table X, the growth rate was the highest on day 3 following the intervention, but this effect was not sustained. After day 3, the growth rate declined significantly, suggesting that residual biofilm on the surface near the duckweed continued to affect its growth. 
 
