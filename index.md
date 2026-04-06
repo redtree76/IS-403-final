@@ -342,7 +342,135 @@ Achinas, S., Yska, S. K., Charalampogiannis, N., Krooneman, J., & Euverink, G. J
 
 Aijaz, N., Lan, H., Raza, T., Yaqub, M., Iqbal, R., & Pathan, M. S. (2025). Artificial Intelligence in Agriculture: Advancing Crop Productivity and Sustainability. Journal of Agriculture and Food Research, 20, 101762. https://doi.org/10.1016/j.jafr.2025.101762 
 
+Ali, A., Zahra, A., Kamthan, M., Husain, F. M., Albalawi, T., Zubair, M., Alatawy, R., Abid, M., & Noorani, M. S. (2023). Microbial Biofilms: Applications, Clinical Consequences, and Alternative Therapies. Microorganisms, 11(8), 1934. https://doi.org/10.3390/microorganisms11081934 
 
+An, C., Ye Htut Zwe, Mei, M., Shang, G., Ling, Y., Poh, B. L., Zhou, W., & Li, D. (2024). Sanitization of hydroponic farming facilities in Singapore: what, why, and how. Applied and Environmental Microbiology. https://doi.org/10.1128/aem.00672-24 
+
+Appenroth, Klaus-J., Sree, K. S., Böhm, V., Hammann, S., Vetter, W., Leiterer, M., & Jahreis, G. (2017). Nutritional value of duckweeds (Lemnaceae) as human food. Food Chemistry, 217, 266–273. https://doi.org/10.1016/j.foodchem.2016.08.116 
+
+Bachlechner, C., Zand, E., Eisenrauch, V., Mauermann, M., Jäger, H., & Schottroff, F. (2026). Biofilm Properties and Their Implications for Cleaning Processes in the Food Industry - A Review. Journal of Food Protection, 89(2), 100695. https://doi.org/10.1016/j.jfp.2025.100695 
+
+Bamford, N. C., MacPhee, C. E., & Stanley‐Wall, N. R. (2023). Microbial Primer: An introduction to biofilms – what they are, why they form and their impact on built and natural environments. Microbiology, 169(8). https://doi.org/10.1099/mic.0.001338 
+
+Begum, S. (2020, September 9). Nine high-tech farms in Singapore awarded nearly $40 million to ramp up food production. The Straits Times. https://www.straitstimes.com/singapore/nine-high-tech-farms-in-singapore-awarded-nearly-40-million-to-ramp-up-food-production 
+
+Begum, S. (2025a, June 5). Plan in place to help local farms produce more, stay financially viable: SFA chief. The Straits Times. https://www.straitstimes.com/singapore/environment/plan-in-place-to-help-local-farms-produce-more-stay-financially-viable-sfa-chief 
+
+Begum, S. (2025b, November 4). Singapore drops “30 by 30” farming goal, sets revised targets for fibre and protein by 2035. The Straits Times. https://www.straitstimes.com/singapore/environment/singapores-30-by-30-farming-goal-pushed-back-to-2035-with-revised-targets-for-fibre-and-protein
+
+Beitle, E., Justiniano, Y.-A. V., & Morgan, Z. (2025, May 14). Duckweed: A Helpful Plant for Biofilm Reduction. Nasa.gov. https://ntrs.nasa.gov/citations/20250003571 
+Borchard, W., Kenning, A., Kapp, A., & Mayer, C. (2005). Phase diagram of the system sodium alginate/water: A model for biofilms. International Journal of Biological Macromolecules, 35(5), 247–256. https://doi.org/10.1016/j.ijbiomac.2005.02.006
+
+Borosil Scientific. (2025, April 15). Magnetic Stirrer: Working Principle, Types & Uses in Labs. Borosil Scientific. https://www.borosilscientific.com/magnetic-stirrer-operating-principle-and-applications/
+
+Bravo, P., Lung Ng, S., MacGillivray, K. A., Hammer, B. K., & Yunker, P. J. (2023). Vertical growth dynamics of biofilms. Proceedings of the National Academy of Sciences, 120(11). https://doi.org/10.1073/pnas.2214211120
+
+Bunyoo, C., Roongsattham, P., Khumwan, S., Phonmakham, J., Wonnapinij, P., & Thamchaipenet, A. (2022). Dynamic Alteration of Microbial Communities of Duckweeds from Nature to Nutrient-Deficient Condition. Plants, 11(21), 2915. https://doi.org/10.3390/plants11212915
+
+Chen, J. (2024). Mind the gap: Spatiotemporal patterns of airspace formation in duckweeds are regulated by hormones. Plant Physiology, 195(4), 2480–2481. https://doi.org/10.1093/plphys/kiae222
+
+Chen, Y., Su, N., Zhang, K., Zhu, S., Zhao, L., Fang, F., Ren, L., & Guo, Y. (2017). In-Depth Analysis of the Structure and Properties of Two Varieties of Natural Luffa Sponge Fibers. Materials, 10(5), 479. https://doi.org/10.3390/ma10050479
+
+
+Coughlan, N. E., Walsh, É., Bolger, P., Burnell, G., O’Leary, N., O’Mahoney, M., Paolacci, S., Wall, D., & Jansen, M. A. K. (2022). Duckweed bioreactors: Challenges and opportunities for large-scale indoor cultivation of Lemnaceae. Journal of Cleaner Production, 336, 130285. https://doi.org/10.1016/j.jclepro.2021.130285
+
+Dang, H. T. T., Dinh, C. V., Nguyen, K. M., Tran, N. T. H., Pham, T. T., & Narbaitz, R. M. (2020). Loofah Sponges as Bio-Carriers in a Pilot-Scale Integrated Fixed-Film Activated Sludge System for Municipal Wastewater Treatment. Sustainability, 12(11), 4758. https://doi.org/10.3390/su12114758
+
+EDB Singapore. (2025). Edb.gov.sg. https://www.edb.gov.sg/en/about-edb/media-releases-publications/dutch-indoor-farming-company-rowy-opens-new-vertical-farm-in-singapore.html
+
+Faizal, A., Sembada, A. A., & Priharto, N. (2021). Production of bioethanol from four species of duckweeds (Landoltia punctata, Lemna aequinoctialis, Spirodela polyrrhiza, and Wolffia arrhiza) through optimization of saccharification process and fermentation with Saccharomyces cerevisiae. Saudi Journal of Biological Sciences, 28(1), 294–301. https://doi.org/10.1016/j.sjbs.2020.10.002
+
+Ghazal, S., Munir, A., & Qureshi, W. S. (2024). Computer vision in smart agriculture and precision farming: Techniques and applications. Artificial Intelligence in Agriculture, 13. https://doi.org/10.1016/j.aiia.2024.06.004
+
+Glover, G. M. C., & Fitzpatrick, J. J. (2007). Modelling vortex formation in an unbaffled stirred tank reactors. Chemical Engineering Journal, 127(1-3), 11–22. https://doi.org/10.1016/j.cej.2006.09.019
+
+Gong, Y., Luo, X., Zhang, T., Zhou, G., Li, J., Zhang, B., Li, P., & Huang, H. (2024). Assembly and comparative analysis of the complete mitochondrial genome of white towel gourd (Luffa cylindrica). Genomics, 116(3), 110859–110859. https://doi.org/10.1016/j.ygeno.2024.110859
+
+Halász, G., Gyüre, B., Jánosi, I. M., Szabó, K. G., & Tél, T. (2007). Vortex flow generated by a magnetic stirrer. American Journal of Physics, 75(12), 1092–1098. https://doi.org/10.1119/1.2772287
+
+Hasan, M. I., & Aggarwal, S. (2024). Matrix matters: How extracellular substances shape biofilm structure and mechanical properties. Colloids and Surfaces. B, Biointerfaces, 246, 114341. https://doi.org/10.1016/j.colsurfb.2024.114341
+
+Hemal, Rahman, A., None Nurjahan, Islam, F., Ahmed, S., M. Shamim Kaiser, & Muhammad Raisuddin Ahmed. (2024). An Integrated Smart Pond Water Quality Monitoring and Fish Farming Recommendation Aquabot System. Sensors, 24(11), 3682–3682. https://doi.org/10.3390/s24113682
+
+Islam, M. F., Yang, J., Zhao, X., Kazmi, A., Li, X., Hu, H., Sun, Z., Chen, Y., P.P.M. Heenatigala, & Hou, H. (2025). Elevated light intensity and temperature enhance biomass, protein, and starch accumulation in duckweed. Industrial Crops and Products, 237, 122118–122118. https://doi.org/10.1016/j.indcrop.2025.122118
+
+Jang, H., Rusconi, R., & Stocker, R. (2017). Biofilm disruption by an air bubble reveals heterogeneous age-dependent detachment patterns dictated by initial extracellular matrix distribution. Npj Biofilms and Microbiomes, 3(1). https://doi.org/10.1038/s41522-017-0014-5
+
+Jones, G., Scullion, J., Dalesman, S., Robson, P., & Gwynn-Jones, D. (2023). Lowering pH enables duckweed (Lemna minor L.) growth on toxic concentrations of high-nutrient agricultural wastewater. Journal of Cleaner Production, 395, 136392. https://doi.org/10.1016/j.jclepro.2023.136392
+
+Kulshrestha, A., & Gupta, P. (2024). Real-time biofilm detection techniques: advances and applications. Future Microbiology, 19(11), 1003–1016. https://doi.org/10.1080/17460913.2024.2350285
+
+Kumari, K., Nafchi, A. M., Mirzaee, S., & Abdalla, A. (2025). AI-Driven Future Farming: Achieving Climate-Smart and Sustainable Agriculture. AgriEngineering, 7(3), 89. https://doi.org/10.3390/agriengineering7030089
+
+Lago, A., Rocha, V., Barros, O., Silva, B., & Tavares, T. (2024). Bacterial biofilm attachment to sustainable carriers as a clean-up strategy for wastewater treatment: A review. Journal of Water Process Engineering, 63, 105368–105368. https://doi.org/10.1016/j.jwpe.2024.105368
+
+Laurich, J. (2019, November 18). Lemna minor (duckweed) sterilization protocol v2. https://doi.org/10.17504/protocols.io.9gdh3s6
+
+Lei, Y., Yang, W., Yuan, Y., Wei, G., & Guo, L. (2025). Functionalization of loofah sponge as a natural cellulose-based material for water environment remediation and sustainability assessment. Carbohydrate Polymers, 358, 123514. https://doi.org/10.1016/j.carbpol.2025.123514
+
+Li, Y., Li, X., Hao, Y., Liu, Y., Dong, Z., & Li, K. (2021). Biological and Physiochemical Methods of Biofilm Adhesion Resistance Control of Medical-Context Surface. International Journal of Biological Sciences, 17(7), 1769–1781. https://doi.org/10.7150/ijbs.59025
+
+Li, Y., Qu, Y., Yang, H., Zhou, X., Xiao, P., & Shao, T. L. (2023). Combatting biofilms in potable water systems: A comprehensive overview to ensuring industrial water safety. Environmental Microbiology Reports, 15(6). https://doi.org/10.1111/1758-2229.13207
+
+Loh, R. (2024, October 19). With several farms closing or struggling to break even, what is the future for agriculture in Singapore? CNA. https://www.channelnewsasia.com/today/big-read/high-tech-low-returns-farming-4684566
+
+Mallinger, K., Corpaci, L., Neubauer, T., Tikász, I. E., Goldenits, G., & Banhazi, T. (2024). Breaking the barriers of technology adoption: Explainable AI for requirement analysis and technology design in smart farming. Smart Agricultural Technology, 9, 100658. https://doi.org/10.1016/j.atech.2024.100658
+
+Mehmood, Ch. T., Waheed, H., & Habimana, O. (2025). Occurrence, challenges, and control strategies for biofilms in irrigation networks of modern agriculture. Journal of Agriculture and Food Research, 25, 102616. https://doi.org/10.1016/j.jafr.2025.102616
+
+Musa, O. I., Akande, S. A., Ijah, U. J. J., Abioye, O. P., Maude, A. M., Samuel, J. O., Mustapha, A., Abdulrahim, A.-M., & Gusdanis, A. C. G. (2024). Biofilms communities in the soil: characteristic and interactions using mathematical model. Research in Microbiology, 175(3), 104149. https://doi.org/10.1016/j.resmic.2023.104149
+
+NParks. (2023). Xiao Bai Cai. Nparks.gov.sg. https://gardeningsg.nparks.gov.sg/page-index/edible-plants/xiao-bai-cai/
+
+Rakhimbekova, A., Baizak Kudaibergenov, Damir Moldabay, Zharylgap, A., Ajunwa, O. M., Marsili, E., & Tosi, D. (2022). Biofilm Detection by a Fiber-Tip Ball Resonator Optical Fiber Sensor. Biosensors, 12(7), 481–481. https://doi.org/10.3390/bios12070481
+
+Rather, M. A., Gupta, K., & Mandal, M. (2021). Microbial biofilm: formation, architecture, antibiotic resistance, and control strategies. Brazilian Journal of Microbiology: [Publication of the Brazilian Society for Microbiology], 52(4), 1701–1718. https://doi.org/10.1007/s42770-021-00624-x
+
+Ruvini Hiththatiyage, Prabhath Ariyasena, Fernando, D., Lumini Abeywickrama, Nuhansa Sasindi, Siril Wijesundara, Barana Jayawardana, Madhujith, T., Ruvini Liyanage, Jin, L., & Zhou, X. (2026). Duckweed as a sustainable protein source: Effects of fertilizer regimes on growth, protein yield, and functional properties. Advanced Agrochem. https://doi.org/10.1016/j.aac.2026.02.007
+
+Sajjad, Mohd, Alalwan, H. A., Lee, W. H., & Dai, F. (2022). Experimental investigation of biofilm carriers of varying shapes, sizes, and materials for wastewater treatment in fixed bed biofilm reactor: a qualitative study of biocarrier performance. Journal of Chemical Technology & Biotechnology, 97(9), 2592–2606. https://doi.org/10.1002/jctb.7131
+
+ScienceDirect. (2016). Duckweed - an overview | ScienceDirect Topics. Sciencedirect.com. https://www.sciencedirect.com/topics/earth-and-planetary-sciences/duckweed
+
+Singapore Food Agency. (2023, December 14). MEDIA FACTSHEET - SINGAPORE CONTINUES TO STRENGTHENITS FOOD SUPPLY RESILIENCE. Default. https://www.sfa.gov.sg/news-publications/newsroom/media-factsheet---singapore-continues-to-strengthenits-food-supply-resilience
+
+Singh, A., Singh, J., Kaur, S., Mahendra Gunjal, Kaur, J., Nanda, V., Ullah, R., Sezai Ercisli, & Prasad Rasane. (2024). Emergence of microgreens as a valuable food, current understanding of their market and consumer perception: A review. Food Chemistry X, 23, 101527–101527. https://doi.org/10.1016/j.fochx.2024.101527
+
+Singh, N., Chetty, M., & Rathilal, S. (2025). Optimizing Hydrodynamics for Enhanced CoCultivation in Bubble Column Reactors. 42nd JOHANNESBURG International Conference on “Chemical, Biological and Environmental Engineering” (JCBEE-25). https://doi.org/10.17758/iicbe7.c1125107
+
+Tallawi, M., Opitz, M., & Lieleg, O. (2017). Modulation of the mechanical properties of bacterial biofilms in response to environmental challenges. Biomaterials Science, 5(5), 887–900. https://doi.org/10.1039/c6bm00832a
+
+Tham, D. (2024, June 29). IN FOCUS: Will Singapore meet its 30 by 30 food sustainability goal? CNA. https://www.channelnewsasia.com/singapore/vegetables-seafood-singapore-food-price-cost-farmers-security-4442626
+
+Thingujam, D., Pajerowska-Mukhtar, K. M., & Mukhtar, M. S. (2024). Duckweed: Beyond an Efficient Plant Model System. Biomolecules, 14(6), 628. https://doi.org/10.3390/biom14060628
+
+Ugwu, C. N., Ezeibe, E. N., Emencheta, S. C., Nwagwu, C. S., Ogbonna, K. O., Ejiofor, C. V., Onugwu, A. L., Berebon, D. P., & Attama, A. A. (2025). Biofilms: structure, resistance mechanism, emerging control strategies, and applications. RSC Pharmaceutics. https://doi.org/10.1039/d5pm00094g
+
+V. van de Griend, M., Warrener, F., van, Song, Y., Fuchs, E. C., Willibald Loiskandl, & Agostinho, F. (2022). Vortex Impeller-Based Aeration of Groundwater. Water, 14(5), 795–795. https://doi.org/10.3390/w14050795
+
+Verdouw, C., Tekinerdogan, B., Beulens, A., & Wolfert, S. (2021). Digital twins in smart farming. Agricultural Systems, 189, 103046. https://doi.org/10.1016/j.agsy.2020.103046
+
+Walsh, É., Coughlan, N. E., O’Brien, S., Jansen, M. A. K., & Kuehnhold, H. (2021). Density Dependence Influences the Efficacy of Wastewater Remediation by Lemna minor. Plants (Basel, Switzerland), 10(7), 1366. https://doi.org/10.3390/plants10071366
+
+WebMD. (n.d.). Health Benefits of Bok Choy. WebMD. https://www.webmd.com/diet/health-benefits-bok-choy
+
+Yang, G.-L. (2022). Duckweed Is a Promising Feedstock of Biofuels: Advantages and Approaches. International Journal of Molecular Sciences, 23(23), 15231. https://doi.org/10.3390/ijms232315231
+
+Zhang, L.-M., Jin, Y., Yao, S.-M., Lei, N.-F., Chen, J.-S., Zhang, Q., & Yu, F.-H. (2020). Growth and Morphological Responses of Duckweed to Clonal Fragmentation, Nutrient Availability, and Population Density. Frontiers in Plant Science, 11. https://doi.org/10.3389/fpls.2020.00618
+
+Zhang, Y., Hu, Y., Yang, B., Ma, F., Lu, P., Li, L., Wan, C., Rayner, S., & Chen, S. (2010). Duckweed (Lemna minor) as a Model Plant System for the Study of Human Microbial Pathogenesis. PLoS ONE, 5(10), e13527. https://doi.org/10.1371/journal.pone.0013527
+
+Zhao, A., Sun, J., & Liu, Y. (2023). Understanding bacterial biofilms: From definition to treatment strategies. Frontiers in Cellular and Infection Microbiology, 13(1137947). https://doi.org/10.3389/fcimb.2023.1137947
+
+Zhou, Y., Han, L.-R., He, H.-W., Sang, B., Yu, D.-L., Feng, J.-T., & Zhang, X. (2018). Effects of Agitation, Aeration and Temperature on Production of a Novel Glycoprotein GP-1 by Streptomyces kanasenisi ZX01 and Scale-Up Based on Volumetric Oxygen Transfer Coefficient. Molecules (Basel, Switzerland), 23(1), 125. https://doi.org/10.3390/molecules23010125
+
+Zięć, G., Michalski, O., Konieczna-Molenda, A., Dera, T., Tkaczewska, J., Zięć, G., Michalski, O., Konieczna-Molenda, A., Dera, T., & Tkaczewska, J. (2025). Nutritional Value, Health Properties, Safety Considerations, and Consumer Acceptance of Lemnoideae as Human Food. Nutrients, 17(18), 3026–3026. https://doi.org/10.3390/nu17183026
+
+Ziegler, P. (2025). Developments in Toxicity Testing with Duckweeds. Journal of Xenobiotics, 15(2), 48–48. https://doi.org/10.3390/jox15020048
+
+Ziegler, P., Appenroth, K. J., & Sree, K. S. (2023). Survival Strategies of Duckweeds, the World’s Smallest Angiosperms. Plants, 12(11), 2215. https://doi.org/10.3390/plants12112215
+
+Zirk, K.-U., Olze, M., & Pötzschke, H. (2022). A Simple Method for the Detection of Biofilms Using a Heatable Capacitive Sensor Structure (CSS): Description, Proof of Concept, and Some Technical Improvements. Sensors, 22(2), 445. https://doi.org/10.3390/s22020445
 
 
 
