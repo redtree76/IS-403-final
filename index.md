@@ -88,11 +88,8 @@ layout: home
 # 4. Value Proposition (Shannen) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To address the problem of biofilm in duckweed cultivation, we identified stakeholders impacted and evaluated current management measures, recognising that existing methods are few, disruptive and labour-intensive. The proposed system aims to provide a non-destructive and automated biofilm management by monitoring fronds in real time and applying a novel removal method. 
 
-<br> **4.1. Design Product**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The goal of this project is to develop a system that utilises a camera to monitor biofilm formation and adherence in real time, and automatically triggers a mechanical removal mechanism when biofilm is detected.
-
-<br> **4.2. Stakeholder Analysis**
+<br> **4.1. Stakeholder Analysis**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We were inspired by Dr Yuchen Long’s research on duckweed and visited his lab, where he shared that he encountered significant biofilm contamination while cultivating duckweed. He explained that biofilm can rapidly cover plant surface and system components, competing with duckweed for nutrients, oxygen and light, while also harbouring potentially harmful microorganisms, and is difficult to remove once established. Currently, the lab uses bleaching to control biofilm, which risks damaging the crop, highlighting the need for alternative solutions to support healthy duckweed growth. 
 
@@ -100,33 +97,33 @@ layout: home
 	
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secondary stakeholders include researchers and R&D institutions who are interested in advancing duckweed cultivation and biofilm management strategies. In addition, consumers represent a broader stakeholder group, benefiting from safer and more sustainable food production enabled by improved cultivation practices.		
 
-<br> **4.3. Current Biofilm Management Techniques**
+<br> **4.2. Current Biofilm Management Techniques**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently, no commercial or standardised systems provide real-time detection and removal of biofilm from duckweed fronds. While laboratory protocols exist for sterilisation of duckweed and hydroponic technologies can manage general biofilm, there is no integrated solution that combines continuous monitoring with duckweed-specific biofilm control.
 
-4.3.1. *Lab Protocols for Biofilm Removal*
+4.2.1. *Lab Protocols for Biofilm Removal*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laboratory protocols have been developed specifically for duckweed, focussing on surface sterilisation and gentle rinsing, where fronds are briefly soaked in dilute sodium hypochlorite (~1% bleach) followed by multiple rinses to remove surface microbes and loose biofilm. (Laurich, 2019) 
 
-4.3.2. *Biofilm Management in Hydroponics Systems*
+4.2.2. *Biofilm Management in Hydroponics Systems*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In broader hydroponic systems, biofilm is managed using physical and mechanical methods, such as scrubbing or flushing surfaces, ultrasonic or sound-based disruption and UV. (Mehmood et al., 2025) Chemical interventions are also commonly applied. (An et al., 2024) 
 
-4.3.3. *Current Biofilm Detection Methods*
+4.2.3. *Current Biofilm Detection Methods*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microscopical and imaging methods are among the most commonly used for biofilm detection, enabling direct visualisation of biofilm structure and thickness. In addition, biological approaches such as colony-forming unit assays, are also employed to estimate viable microbial populations by culturing biofilm cells on agar plates. Chemical techniques use staining assays and analysis of EPS or metabolic activity to quantify biofilm presence. (Achinas et al., 2020) Optical and spectroscopic methods further complement these techniques by quantifying biofilm growth through changes in light absorption, reflection or molecular composition. (Kulshrestha & Gupta, 2024) More recently, sensor-based and physical detection methods have emerged, including optical fibre sensors (Rakhimbekova et al., 2022) and capacitive sensors. (Zirk et al., 2022)
 
-<br> **4.4. Gaps in Existing Approaches and Our Proposed Solution**
+<br> **4.3. Gaps in Existing Approaches and Our Proposed Solution**
 
-4.4.1. *Evaluation of Current Biofilm Management Methods*
+4.3.1. *Evaluation of Current Biofilm Management Methods*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laboratory protocols for duckweed are not suitable for continuous or large-scale cultivation. These methods are labour-intensive and may disrupt normal duckweed growth if applied repeatedly, while also failing to prevent rapid re-establishment of biofilm due to the chemical resistance of the EPS matrix. (Hasan & Aggarwal, 2024) In hydroponic systems, existing mechanical methods could potentially be adapted to remove biofilm from duckweed surfaces without relying on harsh chemicals that pose safety concerns for human consumption. (An et al., 2024)
 
-4.4.2. *Evaluation of Current Biofilm Detection Methods*
+4.3.2. *Evaluation of Current Biofilm Detection Methods*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Laboratory methods, such as microscopy and imaging, provide detailed visualisation of biofilm structure but are destructive, labour-intensive and unsuitable for continuous monitoring. Similarly, biological approaches can quantify viable microbes but they are slow and do not capture non-culturable cells or the EPS matrix. Chemical techniques can detect and quantify biofilm more directly, yet they require sampling and cannot provide real-time feedback. (Achinas et al., 2020) In contrast, optical and sensor-based approaches show the most promise for monitoring biofilm on duckweed. Optical techniques allow non-invasive and rapid tracking of biofilm growth and composition (Kulshrestha & Gupta, 2024), while emerging sensors can provide real-time and non-destructive detection. (Rakhimbekova et al., 2022) 
 
-4.4.3. *Limitations Addressed*
+4.3.3. *Limitations Addressed*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We propose an integrated, real-time system specifically designed for duckweed cultivation. The approach uses camera-based imaging to continuously monitor biofilm formation on duckweed fronds. Image analysis algorithms quantify biofilm growth and trigger a signal when biofilm exceeds set thresholds. This signal then activates a mechanical removal mechanism to eliminate biofilm from the plant surface. By combining automated detection with targeted mechanical removal, the system provides non-destructive, continuous, real-time biofilm management while reducing labour requirements. 
 
@@ -183,7 +180,7 @@ Table X: Composition of Growth Medium
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The surface coverage was quantified by percentage coverage. First, the image was cropped to standardize the total surface area. Duckweed were defined by circular edge and green color, and through edge detection and color recognition, a mask was applied on the duckweed to quantify the coverage area in each image.
 
-
+<br>
 
 # 6. Potential Concept Solutions (Jingten)
 
@@ -254,6 +251,8 @@ Table X: Composition of Growth Medium
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Based on the experiment results, we selected magnetic stirrer as our final concept. It is able to effectively dislodge biofilm from the surface thus alleviating the competitive stress on duckweed for nutrient and space. This method also has minimal impact on the duckweed health. The biofilm could later be removed from the tank with minimal disruption to the duckweed as it sinks to the bottom of the tank.
 While loofah filter is able to remove biofilm from the tank more effectively, the duckweed retention rate is significantly lower, and the mechanical stress also causes turion formation and discoloration. Hence, the filter method was not selected for further development.
+
+<br>
 
 # 7. Optimization of Chosen Concept Solution: Magnetic Stirrer (Jingten)
 
