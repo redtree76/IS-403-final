@@ -156,10 +156,15 @@ Table X: Composition of Growth Medium
 
 5.2.2. *Camera System for Growth Rate Measurement* 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A smartphone camera was used to capture images of the water surface. The setup was placed under consistent lighting to minimise shadows and reflections that could affect image analysis. A calibration scale was included in each image to ensure accurate measurement of surface area and coverage. Images were stored on the device and later transferred to a computer for processing using a python application, where analysis was performed using automated scripts. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A smartphone camera was used to capture images of the water surface. The setup was placed under consistent lighting to minimise shadows and reflections that could affect image analysis. A calibration scale was included in each image to ensure accurate measurement of surface area and coverage. Images were stored on the device and later transferred to a computer for processing using a python application.
 
+5.2.3. *Data Collection for Comparison of Growth Rates* 
 
-5.2.3. *Duckweed Health Assessment* 
+(insert graph) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Day 1 reflects the lag phase, days 2-6 represent the exponential phase and day 7 corresponds to the plateau phase. Because growth rates vary across these three phases, only the exponential phase was used to compare the effects of the interventions on growth rate. 
+
+5.2.4. *Duckweed Health Assessment* 
 
 (insert pictures of healthy, sinking and discoloured duckweed) 
 
