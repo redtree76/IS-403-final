@@ -235,6 +235,7 @@ Table X: Composition of Growth Medium
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Surface agitation involves physically stirring the duckweed culture to generate localised shear forces on the frond surfaces, disturbing growth of microorganisms. (Zhou et al., 2018) By gently moving the water around the plants, the biofilm in the early irreversible adhesion phase and loosely attached microbial aggregates can be dislodged. This method targets the interface between the frond and surrounding medium, disrupting developing microcolonies before the EPS matrix fully matures. However, the common practice of duckweed farming is to maintain a calm surface since agitation might disrupt duckweed growth.
 
 6.2.2. *Experiment* 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed cultures were subjected to two conditions: a stirred treatment and an unstirred control. In the stirred treatment, a spatula was gently moved through the medium and frond surfaces. The unstirred control was left undisturbed to allow natural biofilm formation. 
 (insert picture of surface stirring experiment)
 
@@ -257,6 +258,7 @@ Table X: Composition of Growth Medium
 
 
 6.3.2. *Experiment* 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duckweed cultures were subjected to two conditions: a stirred treatment and an unstirred control. In the stirred treatment, a magnetic stirrer generated a continuous vortex throughout the medium, applying shear forces to both the water column and frond surfaces. The unstirred control was left undisturbed to allow natural biofilm formation. 
 
 6.3.3. *Results* 
