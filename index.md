@@ -201,6 +201,7 @@ Table X: Composition of Growth Medium
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These same properties suggest that loofah can be repurposed for biofilm removal. Its high surface area and rough microstructure provide numerous attachment sites (Sajjad et al., 2022), while its hydrophilicity, cellulose-rich surface enhances microbial adhesions. (Lei et al., 2025) Additionally, its porous structure allows duckweed to pass through with minimal resistance, enabling filtration without significant disruption. 
 
 6.1.2. *Preliminary Experiment* 
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Given the complex structure of a loofah, a preliminary experiment was done to identify the optimal cut section used for filtration. 
 
 *Figure X. Exploration of Optimal Loofah Filter Surface. The loofah was cut along the dotted line to create surface b and c. (a) Transverse section of loofah as filter. (b) Longitudinal section from outer surface of loofah as filter. (c) Longitudinal section from inner surface of loofah as filter.*
@@ -213,8 +214,7 @@ Table X: Composition of Growth Medium
 
 (insert picture of loofah filtration experiment)
 
-	We proceed to investigate the effect of loofah on duckweed growth rate. The experiment was set up with a clean control and a biofilm-infected control to be observed without any intervention. For the intervention, the duckweed culture, along with growth medium, was poured through a loofah or a kitchen sponge into a separate tank. A control setup was prepared by pouring an equivalent amount of duckweed culture directly into another tank without passing through the loofah to understand how pouring disrupts the duckweed growth.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We proceed to investigate the effect of loofah on duckweed growth rate. The experiment was set up with a clean control and a biofilm-infected control to be observed without any intervention. For the intervention, the duckweed culture, along with growth medium, was poured through a loofah or a kitchen sponge into a separate tank. A control setup was prepared by pouring an equivalent amount of duckweed culture directly into another tank without passing through the loofah to understand how pouring disrupts the duckweed growth.
 
 
 
@@ -227,7 +227,7 @@ Table X: Composition of Growth Medium
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A key limitation of this method is that duckweed fronds were retained within the loofah during filtration. Although attempts were made to recover trapped fronds using distilled water, complete retrieval was not achieved, resulting in a reduction in biomass. Furthermore, the amount of biofilm removed may also vary between trials, depending on factors such as flow rate, pouring technique and how the loofah is packed, which affects reproducibility. While visual inspection suggested effective removal, some biofilm may remain on fronds. Over time, the loofah could become saturated with biofilm, reducing its effectiveness and requiring replacement. These factors, combined with labour requirements and potential biomass loss, limit the scalability and consistency of the method for larger cultivation systems. 
 
 
-<br>**6.2. Stirring**
+<br>**6.2. Surface Agitation**
 6.2.1. *Hypothesis and Rationale*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We tested two methods of stirring for the removal of biofilm: surface agitation and magnetic stirrer. 
