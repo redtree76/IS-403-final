@@ -263,17 +263,17 @@ While loofah filter is able to remove biofilm from the tank more effectively, th
 
 # 7. Optimization of Chosen Concept Solution: Magnetic Stirrer (Jingten)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We selected the magnetic stirrer as the preferred intervention because it successfully dislodged biofilm and allowed fragments to spin down, while improving duckweed growth rate and maintaining frond health. Compared to the other two methods, it performed best in terms of biofilm removal, minimal impact on duckweed and potential for implementation. The focus of optimisation is now on fine-tuning vortex speed to maximise biofilm detachment while minimising stress or damage to the duckweed, ensuring an effective and balanced intervention. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We selected the magnetic stirrer as the preferred intervention because it successfully dislodged biofilm and allowed fragments to spin down while improving duckweed growth rate. Compared to the other two methods, it performed best in terms of biofilm removal, health, and potential for implementation. The focus of optimisation is now on fine-tuning vortex speed to maximise biofilm detachment while minimising stress or damage to the duckweed, ensuring an effective and balanced intervention.  
 
 <br>**7.1. Experimental Method** 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To optimize the magnetic stirrer, we conducted an experiment for stirring at different speeds for duckweed with biofilm. We also added an additional control to observe how this removal method impacts the duckweed growth when no biofilm is present. To ensure a fair comparison, key variables were kept constant across all trials, including tank volume, stir bar size and the position of the stir bar. Biofilm removal was assessed through visual observation of detachment from duckweed fronds. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To optimize the magnetic stirrer, we conducted an experiment for stirring at different speeds for duckweed with biofilm. To ensure a fair comparison, key variables were kept constant across all trials, including tank volume, stir bar size and the position of the stir bar. Biofilm removal was assessed through visual observation of detachment from duckweed fronds. 
 
 <br>**7.2. Optimisation of Vortex Speed**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While higher vortex speeds generate stronger shear forces that improve the removal of EPS (Hasan & Aggarwal, 2024), they can also negatively affect duckweed by causing physical stress. To evaluate this trade-off, experiments were conducted at two different speeds 600 rpm and 870 rpm. The higher speed prioritizes biofilm removal and disturbs the surface slightly while the lower speed ensures that the surface disturbance is minimal during the vortex. The intervention was carried out on day 3 and day 7 respectively.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While higher vortex speeds generate stronger shear forces that improve the removal of EPS (Hasan & Aggarwal, 2024), they can also negatively affect duckweed by causing physical stress. To evaluate this trade-off, experiments were conducted at two different speeds 600 rpm and 870 rpm, where the higher speed prioritizes biofilm removal and disturbs the surface slightly while the lower speed ensures that the surface disturbance is minimal during the vortex. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The results showed that in both clean and biofilm-infected duckweed, using a magnetic stirrer increases the overall growth rate. In the biofilm-infected tank, the magnetic stirrer at a higher speed had a slightly higher growth rate compared to the lower speed. This suggests that biofilm had a greater impact on duckweed growth compared to surface disturbance.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; It was observed that biofilm removal improved at 870 rpm. However, the vortex may have been too strong, as some discolouration was observed after the intervention. Further testing within the range of 600 to 870 rpm is needed to ensure that duckweed health is maintained. 
 
 
 
